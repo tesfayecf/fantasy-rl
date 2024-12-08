@@ -1,0 +1,4013 @@
+{
+    "53": {
+        "id": "53",
+        "positionId": "1",
+        "nickname": "Oblak",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "68": {
+        "id": "68",
+        "positionId": "1",
+        "nickname": "Unai Simón",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "93": {
+        "id": "93",
+        "positionId": "1",
+        "nickname": "Ter Stegen",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "140": {
+        "id": "140",
+        "positionId": "1",
+        "nickname": "Iván Villar",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "184": {
+        "id": "184",
+        "positionId": "1",
+        "nickname": "David Soria",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "204": {
+        "id": "204",
+        "positionId": "1",
+        "nickname": "Aitor Fdez",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "230": {
+        "id": "230",
+        "positionId": "1",
+        "nickname": "Courtois",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "274": {
+        "id": "274",
+        "positionId": "1",
+        "nickname": "Remiro",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "298": {
+        "id": "298",
+        "positionId": "1",
+        "nickname": "Jaume Domenech",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "644": {
+        "id": "644",
+        "positionId": "1",
+        "nickname": "Sergio Herrera",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "908": {
+        "id": "908",
+        "positionId": "1",
+        "nickname": "Lunin",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "988": {
+        "id": "988",
+        "positionId": "1",
+        "nickname": "Sivera",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1024": {
+        "id": "1024",
+        "positionId": "1",
+        "nickname": "Cárdenas",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1046": {
+        "id": "1046",
+        "positionId": "1",
+        "nickname": "Dimitrievski",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1132": {
+        "id": "1132",
+        "positionId": "1",
+        "nickname": "Rui Silva",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1163": {
+        "id": "1163",
+        "positionId": "1",
+        "nickname": "Dmitrovic",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1184": {
+        "id": "1184",
+        "positionId": "1",
+        "nickname": "Greif",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1219": {
+        "id": "1219",
+        "positionId": "1",
+        "nickname": "Agirrezabala",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1255": {
+        "id": "1255",
+        "positionId": "1",
+        "nickname": "Mamardashvili",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1443": {
+        "id": "1443",
+        "positionId": "1",
+        "nickname": "Juan Carlos",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1544": {
+        "id": "1544",
+        "positionId": "1",
+        "nickname": "Gazzaniga",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1571": {
+        "id": "1571",
+        "positionId": "1",
+        "nickname": "Iñaki Peña",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1621": {
+        "id": "1621",
+        "positionId": "1",
+        "nickname": "Valles",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1665": {
+        "id": "1665",
+        "positionId": "1",
+        "nickname": "Owono",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1667": {
+        "id": "1667",
+        "positionId": "1",
+        "nickname": "Rodriguez",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1722": {
+        "id": "1722",
+        "positionId": "1",
+        "nickname": "Nyland",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1726": {
+        "id": "1726",
+        "positionId": "1",
+        "nickname": "Gomis",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1736": {
+        "id": "1736",
+        "positionId": "1",
+        "nickname": "Astralaga",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1747": {
+        "id": "1747",
+        "positionId": "1",
+        "nickname": "Vieites",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1750": {
+        "id": "1750",
+        "positionId": "1",
+        "nickname": "Marrero",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1751": {
+        "id": "1751",
+        "positionId": "1",
+        "nickname": "Fraga",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1753": {
+        "id": "1753",
+        "positionId": "1",
+        "nickname": "Matias",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1777": {
+        "id": "1777",
+        "positionId": "1",
+        "nickname": "Stamatakis",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1783": {
+        "id": "1783",
+        "positionId": "1",
+        "nickname": "Cuellar",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1793": {
+        "id": "1793",
+        "positionId": "1",
+        "nickname": "Guaita",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1854": {
+        "id": "1854",
+        "positionId": "1",
+        "nickname": "Diego Conde",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1886": {
+        "id": "1886",
+        "positionId": "1",
+        "nickname": "A Rafús",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1919": {
+        "id": "1919",
+        "positionId": "1",
+        "nickname": "Joan Garcia",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1920": {
+        "id": "1920",
+        "positionId": "1",
+        "nickname": "Pacheco",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1921": {
+        "id": "1921",
+        "positionId": "1",
+        "nickname": "Fortuño",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1962": {
+        "id": "1962",
+        "positionId": "1",
+        "nickname": "Juan Soriano",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1977": {
+        "id": "1977",
+        "positionId": "1",
+        "nickname": "Cillessen",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2016": {
+        "id": "2016",
+        "positionId": "1",
+        "nickname": "Adrián",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2023": {
+        "id": "2023",
+        "positionId": "1",
+        "nickname": "A Fernández",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2024": {
+        "id": "2024",
+        "positionId": "1",
+        "nickname": "Dinko Horkas",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2030": {
+        "id": "2030",
+        "positionId": "1",
+        "nickname": "Jirí Letácek",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2038": {
+        "id": "2038",
+        "positionId": "1",
+        "nickname": "Padilla",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "2039": {
+        "id": "2039",
+        "positionId": "1",
+        "nickname": "Gastesi",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "2043": {
+        "id": "2043",
+        "positionId": "1",
+        "nickname": "Alvin",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "2053": {
+        "id": "2053",
+        "positionId": "1",
+        "nickname": "Ferrer",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2056": {
+        "id": "2056",
+        "positionId": "1",
+        "nickname": "Leo Román",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "2059": {
+        "id": "2059",
+        "positionId": "1",
+        "nickname": "André F",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2060": {
+        "id": "2060",
+        "positionId": "1",
+        "nickname": "Karl Hein",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2066": {
+        "id": "2066",
+        "positionId": "1",
+        "nickname": "Juan Musso",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "2071": {
+        "id": "2071",
+        "positionId": "1",
+        "nickname": "Pau Lopez",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "2072": {
+        "id": "2072",
+        "positionId": "1",
+        "nickname": "Cesar Fernández",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2073": {
+        "id": "2073",
+        "positionId": "1",
+        "nickname": "Marc Vidal",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2080": {
+        "id": "2080",
+        "positionId": "1",
+        "nickname": "Raúl J",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2089": {
+        "id": "2089",
+        "positionId": "1",
+        "nickname": "Júnior R",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2093": {
+        "id": "2093",
+        "positionId": "1",
+        "nickname": "A Batalla",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2098": {
+        "id": "2098",
+        "positionId": "1",
+        "nickname": "Arana",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2105": {
+        "id": "2105",
+        "positionId": "1",
+        "nickname": "A iturbe",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "2116": {
+        "id": "2116",
+        "positionId": "1",
+        "nickname": "Killane",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2121": {
+        "id": "2121",
+        "positionId": "1",
+        "nickname": "Manu G",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2127": {
+        "id": "2127",
+        "positionId": "1",
+        "nickname": "Alberto F",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2129": {
+        "id": "2129",
+        "positionId": "1",
+        "nickname": "Iker Alvarez",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2142": {
+        "id": "2142",
+        "positionId": "1",
+        "nickname": "Szczesny",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2143": {
+        "id": "2143",
+        "positionId": "1",
+        "nickname": "Kochen",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2150": {
+        "id": "2150",
+        "positionId": "1",
+        "nickname": "Aron",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "55": {
+        "id": "55",
+        "positionId": "2",
+        "nickname": "Giménez",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "72": {
+        "id": "72",
+        "positionId": "2",
+        "nickname": "De Marcos",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "73": {
+        "id": "73",
+        "positionId": "2",
+        "nickname": "Lekue",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "74": {
+        "id": "74",
+        "positionId": "2",
+        "nickname": "Yuri",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "75": {
+        "id": "75",
+        "positionId": "2",
+        "nickname": "Iñigo Martínez",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "77": {
+        "id": "77",
+        "positionId": "2",
+        "nickname": "Yeray",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "78": {
+        "id": "78",
+        "positionId": "2",
+        "nickname": "Unai Nuñez",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "121": {
+        "id": "121",
+        "positionId": "2",
+        "nickname": "Bartra",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "192": {
+        "id": "192",
+        "positionId": "2",
+        "nickname": "Djené",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "231": {
+        "id": "231",
+        "positionId": "2",
+        "nickname": "Carvajal",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "245": {
+        "id": "245",
+        "positionId": "2",
+        "nickname": "Lucas Vázquez",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "255": {
+        "id": "255",
+        "positionId": "2",
+        "nickname": "Le Normand",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "257": {
+        "id": "257",
+        "positionId": "2",
+        "nickname": "Gorosabel",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "259": {
+        "id": "259",
+        "positionId": "2",
+        "nickname": "Aritz",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "260": {
+        "id": "260",
+        "positionId": "2",
+        "nickname": "Aihen",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "265": {
+        "id": "265",
+        "positionId": "2",
+        "nickname": "Zubeldia",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "284": {
+        "id": "284",
+        "positionId": "2",
+        "nickname": "Navas",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "300": {
+        "id": "300",
+        "positionId": "2",
+        "nickname": "Diakhaby",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "302": {
+        "id": "302",
+        "positionId": "2",
+        "nickname": "Gayá",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "344": {
+        "id": "344",
+        "positionId": "2",
+        "nickname": "Pedraza",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "360": {
+        "id": "360",
+        "positionId": "2",
+        "nickname": "Rubén Peña",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "558": {
+        "id": "558",
+        "positionId": "2",
+        "nickname": "Militão",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "559": {
+        "id": "559",
+        "positionId": "2",
+        "nickname": "Mendy",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "566": {
+        "id": "566",
+        "positionId": "2",
+        "nickname": "Kounde",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "574": {
+        "id": "574",
+        "positionId": "2",
+        "nickname": "Albiol",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "642": {
+        "id": "642",
+        "positionId": "2",
+        "nickname": "Nacho Vidal",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "645": {
+        "id": "645",
+        "positionId": "2",
+        "nickname": "Aridane",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "649": {
+        "id": "649",
+        "positionId": "2",
+        "nickname": "Unai García",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "665": {
+        "id": "665",
+        "positionId": "2",
+        "nickname": "Aidoo",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "673": {
+        "id": "673",
+        "positionId": "2",
+        "nickname": "Domingos Duarte",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "742": {
+        "id": "742",
+        "positionId": "2",
+        "nickname": "Thierry Correia",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "768": {
+        "id": "768",
+        "positionId": "2",
+        "nickname": "Foulquier",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "801": {
+        "id": "801",
+        "positionId": "2",
+        "nickname": "Espino",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "850": {
+        "id": "850",
+        "positionId": "2",
+        "nickname": "Juan Cruz",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "859": {
+        "id": "859",
+        "positionId": "2",
+        "nickname": "Lato",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "894": {
+        "id": "894",
+        "positionId": "2",
+        "nickname": "Javi López",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "901": {
+        "id": "901",
+        "positionId": "2",
+        "nickname": "Odriozola",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "939": {
+        "id": "939",
+        "positionId": "2",
+        "nickname": "Araujo",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "944": {
+        "id": "944",
+        "positionId": "2",
+        "nickname": "Foyth",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "991": {
+        "id": "991",
+        "positionId": "2",
+        "nickname": "Mingueza",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1010": {
+        "id": "1010",
+        "positionId": "2",
+        "nickname": "Andrei",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1033": {
+        "id": "1033",
+        "positionId": "2",
+        "nickname": "Catena",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1049": {
+        "id": "1049",
+        "positionId": "2",
+        "nickname": "David López",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1056": {
+        "id": "1056",
+        "positionId": "2",
+        "nickname": "Pedrosa",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1090": {
+        "id": "1090",
+        "positionId": "2",
+        "nickname": "Raíllo",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1091": {
+        "id": "1091",
+        "positionId": "2",
+        "nickname": "Sedlar",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1096": {
+        "id": "1096",
+        "positionId": "2",
+        "nickname": "Areso",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1097": {
+        "id": "1097",
+        "positionId": "2",
+        "nickname": "Maffeo",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1121": {
+        "id": "1121",
+        "positionId": "2",
+        "nickname": "Balliu",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1123": {
+        "id": "1123",
+        "positionId": "2",
+        "nickname": "Valjent",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1130": {
+        "id": "1130",
+        "positionId": "2",
+        "nickname": "Eric García",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1133": {
+        "id": "1133",
+        "positionId": "2",
+        "nickname": "Sabaly",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1147": {
+        "id": "1147",
+        "positionId": "2",
+        "nickname": "Juan Iglesias",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1157": {
+        "id": "1157",
+        "positionId": "2",
+        "nickname": "Alaba",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1165": {
+        "id": "1165",
+        "positionId": "2",
+        "nickname": "Alderete",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1168": {
+        "id": "1168",
+        "positionId": "2",
+        "nickname": "Manu Sánchez",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1179": {
+        "id": "1179",
+        "positionId": "2",
+        "nickname": "Diego Rico",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1200": {
+        "id": "1200",
+        "positionId": "2",
+        "nickname": "Mojica",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1204": {
+        "id": "1204",
+        "positionId": "2",
+        "nickname": "Javi Galán",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1208": {
+        "id": "1208",
+        "positionId": "2",
+        "nickname": "Lejeune",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1216": {
+        "id": "1216",
+        "positionId": "2",
+        "nickname": "Jon Pacheco",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1218": {
+        "id": "1218",
+        "positionId": "2",
+        "nickname": "Álex Balde",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1222": {
+        "id": "1222",
+        "positionId": "2",
+        "nickname": "Vivian",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1227": {
+        "id": "1227",
+        "positionId": "2",
+        "nickname": "Carlos Domínguez",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1245": {
+        "id": "1245",
+        "positionId": "2",
+        "nickname": "Miguel Gutiérrez",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1251": {
+        "id": "1251",
+        "positionId": "2",
+        "nickname": "Carmona",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1256": {
+        "id": "1256",
+        "positionId": "2",
+        "nickname": "Jesús Vázquez",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1265": {
+        "id": "1265",
+        "positionId": "2",
+        "nickname": "Abqar",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1269": {
+        "id": "1269",
+        "positionId": "2",
+        "nickname": "Fran García",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1305": {
+        "id": "1305",
+        "positionId": "2",
+        "nickname": "Bellerín",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1337": {
+        "id": "1337",
+        "positionId": "2",
+        "nickname": "Tenaglia",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1353": {
+        "id": "1353",
+        "positionId": "2",
+        "nickname": "Reinildo",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1450": {
+        "id": "1450",
+        "positionId": "2",
+        "nickname": "Valery",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1453": {
+        "id": "1453",
+        "positionId": "2",
+        "nickname": "Juanpe",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1468": {
+        "id": "1468",
+        "positionId": "2",
+        "nickname": "Arnau",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1474": {
+        "id": "1474",
+        "positionId": "2",
+        "nickname": "Rüdiger",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1477": {
+        "id": "1477",
+        "positionId": "2",
+        "nickname": "Witsel",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1478": {
+        "id": "1478",
+        "positionId": "2",
+        "nickname": "Marcao",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1482": {
+        "id": "1482",
+        "positionId": "2",
+        "nickname": "Copete",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1487": {
+        "id": "1487",
+        "positionId": "2",
+        "nickname": "Angileri",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1491": {
+        "id": "1491",
+        "positionId": "2",
+        "nickname": "Nahuel Molina",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1495": {
+        "id": "1495",
+        "positionId": "2",
+        "nickname": "Kiko Femenía",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1497": {
+        "id": "1497",
+        "positionId": "2",
+        "nickname": "Álex Sola",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1507": {
+        "id": "1507",
+        "positionId": "2",
+        "nickname": "Christensen",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1515": {
+        "id": "1515",
+        "positionId": "2",
+        "nickname": "Nianzou",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1525": {
+        "id": "1525",
+        "positionId": "2",
+        "nickname": "Cenk",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1535": {
+        "id": "1535",
+        "positionId": "2",
+        "nickname": "Chavarría",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1542": {
+        "id": "1542",
+        "positionId": "2",
+        "nickname": "Mumin",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1546": {
+        "id": "1546",
+        "positionId": "2",
+        "nickname": "Nastasic",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1552": {
+        "id": "1552",
+        "positionId": "2",
+        "nickname": "Marcos Alonso",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1570": {
+        "id": "1570",
+        "positionId": "2",
+        "nickname": "Badé",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1614": {
+        "id": "1614",
+        "positionId": "2",
+        "nickname": "Cardona",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1615": {
+        "id": "1615",
+        "positionId": "2",
+        "nickname": "Álex Suárez",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1675": {
+        "id": "1675",
+        "positionId": "2",
+        "nickname": "Azpilicueta",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1677": {
+        "id": "1677",
+        "positionId": "2",
+        "nickname": "Paredes",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1680": {
+        "id": "1680",
+        "positionId": "2",
+        "nickname": "Daley Blind",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1690": {
+        "id": "1690",
+        "positionId": "2",
+        "nickname": "Traoré",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1695": {
+        "id": "1695",
+        "positionId": "2",
+        "nickname": "Sinkgraven",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1696": {
+        "id": "1696",
+        "positionId": "2",
+        "nickname": "Heyden",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1707": {
+        "id": "1707",
+        "positionId": "2",
+        "nickname": "Mika Marmol",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1709": {
+        "id": "1709",
+        "positionId": "2",
+        "nickname": "Starfelt",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1710": {
+        "id": "1710",
+        "positionId": "2",
+        "nickname": "Mosquera",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1727": {
+        "id": "1727",
+        "positionId": "2",
+        "nickname": "Kostis",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1729": {
+        "id": "1729",
+        "positionId": "2",
+        "nickname": "Herrando",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1739": {
+        "id": "1739",
+        "positionId": "2",
+        "nickname": "Gorka",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1752": {
+        "id": "1752",
+        "positionId": "2",
+        "nickname": "De Zárate",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1761": {
+        "id": "1761",
+        "positionId": "2",
+        "nickname": "Herzog",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1768": {
+        "id": "1768",
+        "positionId": "2",
+        "nickname": "Alti",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1775": {
+        "id": "1775",
+        "positionId": "2",
+        "nickname": "Pau Cubarsí",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1794": {
+        "id": "1794",
+        "positionId": "2",
+        "nickname": "Ristic",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1800": {
+        "id": "1800",
+        "positionId": "2",
+        "nickname": "Kike Salas",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1810": {
+        "id": "1810",
+        "positionId": "2",
+        "nickname": "Yarek",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1814": {
+        "id": "1814",
+        "positionId": "2",
+        "nickname": "Bailly",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1831": {
+        "id": "1831",
+        "positionId": "2",
+        "nickname": "Héctor Fort",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1832": {
+        "id": "1832",
+        "positionId": "2",
+        "nickname": "Manquillo",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1857": {
+        "id": "1857",
+        "positionId": "2",
+        "nickname": "Nyom",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1858": {
+        "id": "1858",
+        "positionId": "2",
+        "nickname": "Jorge Sáenz",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1861": {
+        "id": "1861",
+        "positionId": "2",
+        "nickname": "Sergio G",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1887": {
+        "id": "1887",
+        "positionId": "2",
+        "nickname": "L Pérez",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1888": {
+        "id": "1888",
+        "positionId": "2",
+        "nickname": "D. Torres",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1889": {
+        "id": "1889",
+        "positionId": "2",
+        "nickname": "Javi Sánchez",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1890": {
+        "id": "1890",
+        "positionId": "2",
+        "nickname": "Boyomo",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1893": {
+        "id": "1893",
+        "positionId": "2",
+        "nickname": "L Rosa",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1925": {
+        "id": "1925",
+        "positionId": "2",
+        "nickname": "S. Gómez",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1927": {
+        "id": "1927",
+        "positionId": "2",
+        "nickname": "Calero",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1928": {
+        "id": "1928",
+        "positionId": "2",
+        "nickname": "Cabrera",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1929": {
+        "id": "1929",
+        "positionId": "2",
+        "nickname": "B. Olivan",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1930": {
+        "id": "1930",
+        "positionId": "2",
+        "nickname": "El Hilali",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1933": {
+        "id": "1933",
+        "positionId": "2",
+        "nickname": "Catala",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1959": {
+        "id": "1959",
+        "positionId": "2",
+        "nickname": "Mouriño",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1963": {
+        "id": "1963",
+        "positionId": "2",
+        "nickname": "Valentin Rosier",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1965": {
+        "id": "1965",
+        "positionId": "2",
+        "nickname": "Tejero",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1966": {
+        "id": "1966",
+        "positionId": "2",
+        "nickname": "Romero",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1973": {
+        "id": "1973",
+        "positionId": "2",
+        "nickname": "Willy Kambwala",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1978": {
+        "id": "1978",
+        "positionId": "2",
+        "nickname": "Alex Muñoz",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1981": {
+        "id": "1981",
+        "positionId": "2",
+        "nickname": "Ladislav Krejcí",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1982": {
+        "id": "1982",
+        "positionId": "2",
+        "nickname": "Francés",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1991": {
+        "id": "1991",
+        "positionId": "2",
+        "nickname": "Tárrega",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1993": {
+        "id": "1993",
+        "positionId": "2",
+        "nickname": "Carreira",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1998": {
+        "id": "1998",
+        "positionId": "2",
+        "nickname": "Vallejo",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "2009": {
+        "id": "2009",
+        "positionId": "2",
+        "nickname": "Lenglet",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "2015": {
+        "id": "2015",
+        "positionId": "2",
+        "nickname": "Mateu Jaume",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "2019": {
+        "id": "2019",
+        "positionId": "2",
+        "nickname": "Diego Llorente",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2020": {
+        "id": "2020",
+        "positionId": "2",
+        "nickname": "Romain Perraud",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2022": {
+        "id": "2022",
+        "positionId": "2",
+        "nickname": "Cömert",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2026": {
+        "id": "2026",
+        "positionId": "2",
+        "nickname": "Moussa Diarra",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2027": {
+        "id": "2027",
+        "positionId": "2",
+        "nickname": "Novoa",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2035": {
+        "id": "2035",
+        "positionId": "2",
+        "nickname": "Ricardo Rodríguez",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2045": {
+        "id": "2045",
+        "positionId": "2",
+        "nickname": "J Urbaez",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "2048": {
+        "id": "2048",
+        "positionId": "2",
+        "nickname": "Eneko O",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2049": {
+        "id": "2049",
+        "positionId": "2",
+        "nickname": "Pica",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2057": {
+        "id": "2057",
+        "positionId": "2",
+        "nickname": "Lucas",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2058": {
+        "id": "2058",
+        "positionId": "2",
+        "nickname": "Jacobo",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "2061": {
+        "id": "2061",
+        "positionId": "2",
+        "nickname": "Mckenna",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2068": {
+        "id": "2068",
+        "positionId": "2",
+        "nickname": "Martín",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2069": {
+        "id": "2069",
+        "positionId": "2",
+        "nickname": "Sergi Domínguez",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2074": {
+        "id": "2074",
+        "positionId": "2",
+        "nickname": "Javi Rodríguez",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2076": {
+        "id": "2076",
+        "positionId": "2",
+        "nickname": "Natan",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2077": {
+        "id": "2077",
+        "positionId": "2",
+        "nickname": "Martin",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2081": {
+        "id": "2081",
+        "positionId": "2",
+        "nickname": "Rodrigo Abajas",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2090": {
+        "id": "2090",
+        "positionId": "2",
+        "nickname": "J Berrocal",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2092": {
+        "id": "2092",
+        "positionId": "2",
+        "nickname": "Costa",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2094": {
+        "id": "2094",
+        "positionId": "2",
+        "nickname": "J Porozo",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "2095": {
+        "id": "2095",
+        "positionId": "2",
+        "nickname": "R Chasco",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2096": {
+        "id": "2096",
+        "positionId": "2",
+        "nickname": "Koke",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2097": {
+        "id": "2097",
+        "positionId": "2",
+        "nickname": "Aramburu",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2103": {
+        "id": "2103",
+        "positionId": "2",
+        "nickname": "Andrés Cuenca",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2104": {
+        "id": "2104",
+        "positionId": "2",
+        "nickname": "Valentín Barco",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2110": {
+        "id": "2110",
+        "positionId": "2",
+        "nickname": "I Córdoba",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2112": {
+        "id": "2112",
+        "positionId": "2",
+        "nickname": "Juan Bernat",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2113": {
+        "id": "2113",
+        "positionId": "2",
+        "nickname": "Maximiliano Caufriez",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2118": {
+        "id": "2118",
+        "positionId": "2",
+        "nickname": "Nayef Aguerd",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2119": {
+        "id": "2119",
+        "positionId": "2",
+        "nickname": "Pezzolesi",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2125": {
+        "id": "2125",
+        "positionId": "2",
+        "nickname": "Pelayo",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2126": {
+        "id": "2126",
+        "positionId": "2",
+        "nickname": "De Las Sias",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2128": {
+        "id": "2128",
+        "positionId": "2",
+        "nickname": "Montiel",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2130": {
+        "id": "2130",
+        "positionId": "2",
+        "nickname": "Pau Navarro",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2131": {
+        "id": "2131",
+        "positionId": "2",
+        "nickname": "Arnau",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2135": {
+        "id": "2135",
+        "positionId": "2",
+        "nickname": "Espigares",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2138": {
+        "id": "2138",
+        "positionId": "2",
+        "nickname": "Nabil",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2146": {
+        "id": "2146",
+        "positionId": "2",
+        "nickname": "Asencio",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "2148": {
+        "id": "2148",
+        "positionId": "2",
+        "nickname": "Spina",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "58": {
+        "id": "58",
+        "positionId": "3",
+        "nickname": "Koke",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "59": {
+        "id": "59",
+        "positionId": "3",
+        "nickname": "Lemar",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "62": {
+        "id": "62",
+        "positionId": "3",
+        "nickname": "Saúl",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "67": {
+        "id": "67",
+        "positionId": "3",
+        "nickname": "Marcos Llorente",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "82": {
+        "id": "82",
+        "positionId": "3",
+        "nickname": "Unai López",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "92": {
+        "id": "92",
+        "positionId": "3",
+        "nickname": "Vesga",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "127": {
+        "id": "127",
+        "positionId": "3",
+        "nickname": "William Carvalho",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "148": {
+        "id": "148",
+        "positionId": "3",
+        "nickname": "Fran Beltrán",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "150": {
+        "id": "150",
+        "positionId": "3",
+        "nickname": "Brais Méndez",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "193": {
+        "id": "193",
+        "positionId": "3",
+        "nickname": "Arambarri",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "215": {
+        "id": "215",
+        "positionId": "3",
+        "nickname": "Campaña",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "238": {
+        "id": "238",
+        "positionId": "3",
+        "nickname": "Isco",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "240": {
+        "id": "240",
+        "positionId": "3",
+        "nickname": "Modric",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "243": {
+        "id": "243",
+        "positionId": "3",
+        "nickname": "Valverde",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "268": {
+        "id": "268",
+        "positionId": "3",
+        "nickname": "Januzaj",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "270": {
+        "id": "270",
+        "positionId": "3",
+        "nickname": "Guevara",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "296": {
+        "id": "296",
+        "positionId": "3",
+        "nickname": "Jordán",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "310": {
+        "id": "310",
+        "positionId": "3",
+        "nickname": "Parejo",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "544": {
+        "id": "544",
+        "positionId": "3",
+        "nickname": "De Jong",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "547": {
+        "id": "547",
+        "positionId": "3",
+        "nickname": "Denis Suárez",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "581": {
+        "id": "581",
+        "positionId": "3",
+        "nickname": "Rioja",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "637": {
+        "id": "637",
+        "positionId": "3",
+        "nickname": "Moncayola",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "652": {
+        "id": "652",
+        "positionId": "3",
+        "nickname": "Rubén García",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "680": {
+        "id": "680",
+        "positionId": "3",
+        "nickname": "Moi Gómez",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "683": {
+        "id": "683",
+        "positionId": "3",
+        "nickname": "Gudelj",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "701": {
+        "id": "701",
+        "positionId": "3",
+        "nickname": "Barrenetxea",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "766": {
+        "id": "766",
+        "positionId": "3",
+        "nickname": "Sancet",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "853": {
+        "id": "853",
+        "positionId": "3",
+        "nickname": "Milla",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "856": {
+        "id": "856",
+        "positionId": "3",
+        "nickname": "Guridi",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "873": {
+        "id": "873",
+        "positionId": "3",
+        "nickname": "Torró",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "874": {
+        "id": "874",
+        "positionId": "3",
+        "nickname": "Óscar",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "876": {
+        "id": "876",
+        "positionId": "3",
+        "nickname": "Guillamón",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "886": {
+        "id": "886",
+        "positionId": "3",
+        "nickname": "De Frutos",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "889": {
+        "id": "889",
+        "positionId": "3",
+        "nickname": "Zubimendi",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "898": {
+        "id": "898",
+        "positionId": "3",
+        "nickname": "Tapia",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "918": {
+        "id": "918",
+        "positionId": "3",
+        "nickname": "Pedri",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1022": {
+        "id": "1022",
+        "positionId": "3",
+        "nickname": "Álex Baena",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1025": {
+        "id": "1025",
+        "positionId": "3",
+        "nickname": "Ilaix",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1029": {
+        "id": "1029",
+        "positionId": "3",
+        "nickname": "Álvaro García",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1031": {
+        "id": "1031",
+        "positionId": "3",
+        "nickname": "Comesaña",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1050": {
+        "id": "1050",
+        "positionId": "3",
+        "nickname": "Darder",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1069": {
+        "id": "1069",
+        "positionId": "3",
+        "nickname": "Antonio Sánchez",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1070": {
+        "id": "1070",
+        "positionId": "3",
+        "nickname": "De Galarreta",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1072": {
+        "id": "1072",
+        "positionId": "3",
+        "nickname": "Dani Rodríguez",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1088": {
+        "id": "1088",
+        "positionId": "3",
+        "nickname": "De Paul",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1103": {
+        "id": "1103",
+        "positionId": "3",
+        "nickname": "Óscar Valentín",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1106": {
+        "id": "1106",
+        "positionId": "3",
+        "nickname": "Iván Martín",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1107": {
+        "id": "1107",
+        "positionId": "3",
+        "nickname": "Trejo",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1134": {
+        "id": "1134",
+        "positionId": "3",
+        "nickname": "Cervi",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1146": {
+        "id": "1146",
+        "positionId": "3",
+        "nickname": "Aleñá",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1166": {
+        "id": "1166",
+        "positionId": "3",
+        "nickname": "Morlanes",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1169": {
+        "id": "1169",
+        "positionId": "3",
+        "nickname": "Riquelme",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1186": {
+        "id": "1186",
+        "positionId": "3",
+        "nickname": "Pathé Ciss",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1197": {
+        "id": "1197",
+        "positionId": "3",
+        "nickname": "Kubo",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1209": {
+        "id": "1209",
+        "positionId": "3",
+        "nickname": "Nteka",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1215": {
+        "id": "1215",
+        "positionId": "3",
+        "nickname": "Turrientes",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1221": {
+        "id": "1221",
+        "positionId": "3",
+        "nickname": "Gavi",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1246": {
+        "id": "1246",
+        "positionId": "3",
+        "nickname": "Blanco",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1291": {
+        "id": "1291",
+        "positionId": "3",
+        "nickname": "Mascarell",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1300": {
+        "id": "1300",
+        "positionId": "3",
+        "nickname": "Camavinga",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1301": {
+        "id": "1301",
+        "positionId": "3",
+        "nickname": "Yangel Herrera",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1308": {
+        "id": "1308",
+        "positionId": "3",
+        "nickname": "Pepelu",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1320": {
+        "id": "1320",
+        "positionId": "3",
+        "nickname": "Ceballos",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1343": {
+        "id": "1343",
+        "positionId": "3",
+        "nickname": "Kike Pérez",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1434": {
+        "id": "1434",
+        "positionId": "3",
+        "nickname": "Samu Costa",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1480": {
+        "id": "1480",
+        "positionId": "3",
+        "nickname": "Tchouaméni",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1488": {
+        "id": "1488",
+        "positionId": "3",
+        "nickname": "Samuel Lino",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1489": {
+        "id": "1489",
+        "positionId": "3",
+        "nickname": "Swedberg",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1513": {
+        "id": "1513",
+        "positionId": "3",
+        "nickname": "De La Torre",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1517": {
+        "id": "1517",
+        "positionId": "3",
+        "nickname": "Aimar Oroz",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1529": {
+        "id": "1529",
+        "positionId": "3",
+        "nickname": "Almeida",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1531": {
+        "id": "1531",
+        "positionId": "3",
+        "nickname": "Ander Herrera",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1537": {
+        "id": "1537",
+        "positionId": "3",
+        "nickname": "Oriol Romeu",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1565": {
+        "id": "1565",
+        "positionId": "3",
+        "nickname": "Barrios",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1586": {
+        "id": "1586",
+        "positionId": "3",
+        "nickname": "Amallah",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1595": {
+        "id": "1595",
+        "positionId": "3",
+        "nickname": "Pablo Marín",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1603": {
+        "id": "1603",
+        "positionId": "3",
+        "nickname": "Terrats",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1609": {
+        "id": "1609",
+        "positionId": "3",
+        "nickname": "Guerra",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1610": {
+        "id": "1610",
+        "positionId": "3",
+        "nickname": "Fran Pérez",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1613": {
+        "id": "1613",
+        "positionId": "3",
+        "nickname": "Marvin",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1618": {
+        "id": "1618",
+        "positionId": "3",
+        "nickname": "Fabio",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1619": {
+        "id": "1619",
+        "positionId": "3",
+        "nickname": "Moleiro",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1620": {
+        "id": "1620",
+        "positionId": "3",
+        "nickname": "Loiodice",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1624": {
+        "id": "1624",
+        "positionId": "3",
+        "nickname": "Kirian",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1659": {
+        "id": "1659",
+        "positionId": "3",
+        "nickname": "A Rebbach",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1660": {
+        "id": "1660",
+        "positionId": "3",
+        "nickname": "Protesoni",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1673": {
+        "id": "1673",
+        "positionId": "3",
+        "nickname": "Brahim",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1674": {
+        "id": "1674",
+        "positionId": "3",
+        "nickname": "Arda Güler",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1678": {
+        "id": "1678",
+        "positionId": "3",
+        "nickname": "Bellingham",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1682": {
+        "id": "1682",
+        "positionId": "3",
+        "nickname": "Altimira",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1683": {
+        "id": "1683",
+        "positionId": "3",
+        "nickname": "Javi Muñoz",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1688": {
+        "id": "1688",
+        "positionId": "3",
+        "nickname": "Pablo Torre",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1689": {
+        "id": "1689",
+        "positionId": "3",
+        "nickname": "Bamba",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1694": {
+        "id": "1694",
+        "positionId": "3",
+        "nickname": "Sow",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1706": {
+        "id": "1706",
+        "positionId": "3",
+        "nickname": "Olasagasti",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1711": {
+        "id": "1711",
+        "positionId": "3",
+        "nickname": "Marc Roca",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1715": {
+        "id": "1715",
+        "positionId": "3",
+        "nickname": "Fermin",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1719": {
+        "id": "1719",
+        "positionId": "3",
+        "nickname": "Unai G",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1721": {
+        "id": "1721",
+        "positionId": "3",
+        "nickname": "Ibañez",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1723": {
+        "id": "1723",
+        "positionId": "3",
+        "nickname": "Zakharyan",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1730": {
+        "id": "1730",
+        "positionId": "3",
+        "nickname": "Iker Muñoz",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1738": {
+        "id": "1738",
+        "positionId": "3",
+        "nickname": "Casadó",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1745": {
+        "id": "1745",
+        "positionId": "3",
+        "nickname": "Hugo Sotelo",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1754": {
+        "id": "1754",
+        "positionId": "3",
+        "nickname": "Juanlu",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1767": {
+        "id": "1767",
+        "positionId": "3",
+        "nickname": "Martín Tejón",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1774": {
+        "id": "1774",
+        "positionId": "3",
+        "nickname": "Luna",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1787": {
+        "id": "1787",
+        "positionId": "3",
+        "nickname": "Prados",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1792": {
+        "id": "1792",
+        "positionId": "3",
+        "nickname": "Jhon Solis",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1801": {
+        "id": "1801",
+        "positionId": "3",
+        "nickname": "Benito J",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1817": {
+        "id": "1817",
+        "positionId": "3",
+        "nickname": "Jailson",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1819": {
+        "id": "1819",
+        "positionId": "3",
+        "nickname": "Johnny",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1822": {
+        "id": "1822",
+        "positionId": "3",
+        "nickname": "Yellu",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1824": {
+        "id": "1824",
+        "positionId": "3",
+        "nickname": "Agoumé",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1825": {
+        "id": "1825",
+        "positionId": "3",
+        "nickname": "Becker",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1835": {
+        "id": "1835",
+        "positionId": "3",
+        "nickname": "Peter",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1842": {
+        "id": "1842",
+        "positionId": "3",
+        "nickname": "Fornals",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1865": {
+        "id": "1865",
+        "positionId": "3",
+        "nickname": "Cruz",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1866": {
+        "id": "1866",
+        "positionId": "3",
+        "nickname": "Darko",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1867": {
+        "id": "1867",
+        "positionId": "3",
+        "nickname": "Franquesa",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1868": {
+        "id": "1868",
+        "positionId": "3",
+        "nickname": "Neyou",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1872": {
+        "id": "1872",
+        "positionId": "3",
+        "nickname": "J. Chicco",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1873": {
+        "id": "1873",
+        "positionId": "3",
+        "nickname": "Cisse",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1896": {
+        "id": "1896",
+        "positionId": "3",
+        "nickname": "V Meseguer",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1898": {
+        "id": "1898",
+        "positionId": "3",
+        "nickname": "I Sánchez",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1899": {
+        "id": "1899",
+        "positionId": "3",
+        "nickname": "Moro",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1901": {
+        "id": "1901",
+        "positionId": "3",
+        "nickname": "C De La Hoz",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1902": {
+        "id": "1902",
+        "positionId": "3",
+        "nickname": "Juric",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1903": {
+        "id": "1903",
+        "positionId": "3",
+        "nickname": "Anuar",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1904": {
+        "id": "1904",
+        "positionId": "3",
+        "nickname": "Kenedy",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1907": {
+        "id": "1907",
+        "positionId": "3",
+        "nickname": "Chuki",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1936": {
+        "id": "1936",
+        "positionId": "3",
+        "nickname": "Puado",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1938": {
+        "id": "1938",
+        "positionId": "3",
+        "nickname": "Pol Lozano",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1939": {
+        "id": "1939",
+        "positionId": "3",
+        "nickname": "Gragera",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1941": {
+        "id": "1941",
+        "positionId": "3",
+        "nickname": "Aguado",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1942": {
+        "id": "1942",
+        "positionId": "3",
+        "nickname": "Sánchez",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1943": {
+        "id": "1943",
+        "positionId": "3",
+        "nickname": "Edu Expósito",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1946": {
+        "id": "1946",
+        "positionId": "3",
+        "nickname": "Roca",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1947": {
+        "id": "1947",
+        "positionId": "3",
+        "nickname": "Bauza",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1967": {
+        "id": "1967",
+        "positionId": "3",
+        "nickname": "Javi Hdez",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1968": {
+        "id": "1968",
+        "positionId": "3",
+        "nickname": "Manu Fuster",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1969": {
+        "id": "1969",
+        "positionId": "3",
+        "nickname": "Albert Sambi Lokonga",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1972": {
+        "id": "1972",
+        "positionId": "3",
+        "nickname": "Carlos M",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1979": {
+        "id": "1979",
+        "positionId": "3",
+        "nickname": "Viti",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1980": {
+        "id": "1980",
+        "positionId": "3",
+        "nickname": "Ivan Gil",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1984": {
+        "id": "1984",
+        "positionId": "3",
+        "nickname": "Donny van de Beek",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1988": {
+        "id": "1988",
+        "positionId": "3",
+        "nickname": "López",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1994": {
+        "id": "1994",
+        "positionId": "3",
+        "nickname": "Danjuma",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "2000": {
+        "id": "2000",
+        "positionId": "3",
+        "nickname": "Joni Montiel",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2003": {
+        "id": "2003",
+        "positionId": "3",
+        "nickname": "Gueye",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2005": {
+        "id": "2005",
+        "positionId": "3",
+        "nickname": "Abel Bretones",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "2006": {
+        "id": "2006",
+        "positionId": "3",
+        "nickname": "Javi MC",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "2011": {
+        "id": "2011",
+        "positionId": "3",
+        "nickname": "Gumbau",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2012": {
+        "id": "2012",
+        "positionId": "3",
+        "nickname": "Pedro Diaz",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2014": {
+        "id": "2014",
+        "positionId": "3",
+        "nickname": "Alex Král",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "2018": {
+        "id": "2018",
+        "positionId": "3",
+        "nickname": "Iker",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2021": {
+        "id": "2021",
+        "positionId": "3",
+        "nickname": "Luka Sucic",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2028": {
+        "id": "2028",
+        "positionId": "3",
+        "nickname": "Stoichkov",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2029": {
+        "id": "2029",
+        "positionId": "3",
+        "nickname": "Luka",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2031": {
+        "id": "2031",
+        "positionId": "3",
+        "nickname": "Christantus Uche",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2032": {
+        "id": "2032",
+        "positionId": "3",
+        "nickname": "Misehouy",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "2040": {
+        "id": "2040",
+        "positionId": "3",
+        "nickname": "Jaureguizar",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "2041": {
+        "id": "2041",
+        "positionId": "3",
+        "nickname": "Adama",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "2050": {
+        "id": "2050",
+        "positionId": "3",
+        "nickname": "Lartitegi",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2052": {
+        "id": "2052",
+        "positionId": "3",
+        "nickname": "Pau Victor",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2062": {
+        "id": "2062",
+        "positionId": "3",
+        "nickname": "Magunazelaia",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2063": {
+        "id": "2063",
+        "positionId": "3",
+        "nickname": "Conor Gallagher",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "2064": {
+        "id": "2064",
+        "positionId": "3",
+        "nickname": "Mario Martín",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2065": {
+        "id": "2065",
+        "positionId": "3",
+        "nickname": "Dani Olmo",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2070": {
+        "id": "2070",
+        "positionId": "3",
+        "nickname": "Marc Bernal",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2078": {
+        "id": "2078",
+        "positionId": "3",
+        "nickname": "Hugo Alvarez",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2079": {
+        "id": "2079",
+        "positionId": "3",
+        "nickname": "Damian",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2082": {
+        "id": "2082",
+        "positionId": "3",
+        "nickname": "Ali Fadal",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2083": {
+        "id": "2083",
+        "positionId": "3",
+        "nickname": "Idumbo",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2084": {
+        "id": "2084",
+        "positionId": "3",
+        "nickname": "Rivera",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2085": {
+        "id": "2085",
+        "positionId": "3",
+        "nickname": "Collado",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2088": {
+        "id": "2088",
+        "positionId": "3",
+        "nickname": "Kumbulla",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "2106": {
+        "id": "2106",
+        "positionId": "3",
+        "nickname": "James",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2107": {
+        "id": "2107",
+        "positionId": "3",
+        "nickname": "Lo Celso",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2114": {
+        "id": "2114",
+        "positionId": "3",
+        "nickname": "Enzo Barrenechea",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2115": {
+        "id": "2115",
+        "positionId": "3",
+        "nickname": "P Ortiz",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2120": {
+        "id": "2120",
+        "positionId": "3",
+        "nickname": "Jan Salas",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "2123": {
+        "id": "2123",
+        "positionId": "3",
+        "nickname": "Alberto",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2133": {
+        "id": "2133",
+        "positionId": "3",
+        "nickname": "Patrick",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2134": {
+        "id": "2134",
+        "positionId": "3",
+        "nickname": "Coba",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2137": {
+        "id": "2137",
+        "positionId": "3",
+        "nickname": "Etta Eyong",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2139": {
+        "id": "2139",
+        "positionId": "3",
+        "nickname": "Essugo",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2141": {
+        "id": "2141",
+        "positionId": "3",
+        "nickname": "Navarro",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "2149": {
+        "id": "2149",
+        "positionId": "3",
+        "nickname": "Javi Serrano",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "65": {
+        "id": "65",
+        "positionId": "4",
+        "nickname": "Correa",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "90": {
+        "id": "90",
+        "positionId": "4",
+        "nickname": "Villalibre",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "91": {
+        "id": "91",
+        "positionId": "4",
+        "nickname": "Iñaki Williams",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "159": {
+        "id": "159",
+        "positionId": "4",
+        "nickname": "Aspas",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "200": {
+        "id": "200",
+        "positionId": "4",
+        "nickname": "Mata",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "247": {
+        "id": "247",
+        "positionId": "4",
+        "nickname": "Vinícius Jr",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "264": {
+        "id": "264",
+        "positionId": "4",
+        "nickname": "Oyarzabal",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "275": {
+        "id": "275",
+        "positionId": "4",
+        "nickname": "Portu",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "294": {
+        "id": "294",
+        "positionId": "4",
+        "nickname": "Munir",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "356": {
+        "id": "356",
+        "positionId": "4",
+        "nickname": "Gerard",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "478": {
+        "id": "478",
+        "positionId": "4",
+        "nickname": "Chimy Ávila",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "557": {
+        "id": "557",
+        "positionId": "4",
+        "nickname": "Rodrygo",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "651": {
+        "id": "651",
+        "positionId": "4",
+        "nickname": "Kike Barja",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "666": {
+        "id": "666",
+        "positionId": "4",
+        "nickname": "Griezmann",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "786": {
+        "id": "786",
+        "positionId": "4",
+        "nickname": "Suso",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "882": {
+        "id": "882",
+        "positionId": "4",
+        "nickname": "Ruibal",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "927": {
+        "id": "927",
+        "positionId": "4",
+        "nickname": "Berenguer",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "942": {
+        "id": "942",
+        "positionId": "4",
+        "nickname": "Budimir",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "980": {
+        "id": "980",
+        "positionId": "4",
+        "nickname": "Camello",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "995": {
+        "id": "995",
+        "positionId": "4",
+        "nickname": "Yéremy Pino",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1032": {
+        "id": "1032",
+        "positionId": "4",
+        "nickname": "Isi",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1063": {
+        "id": "1063",
+        "positionId": "4",
+        "nickname": "RDT",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1081": {
+        "id": "1081",
+        "positionId": "4",
+        "nickname": "Abdón",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1155": {
+        "id": "1155",
+        "positionId": "4",
+        "nickname": "Kike García",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1177": {
+        "id": "1177",
+        "positionId": "4",
+        "nickname": "Marc",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1183": {
+        "id": "1183",
+        "positionId": "4",
+        "nickname": "Sandro",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1191": {
+        "id": "1191",
+        "positionId": "4",
+        "nickname": "Hugo Duro",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1210": {
+        "id": "1210",
+        "positionId": "4",
+        "nickname": "Giuliano",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1260": {
+        "id": "1260",
+        "positionId": "4",
+        "nickname": "Diego López",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1275": {
+        "id": "1275",
+        "positionId": "4",
+        "nickname": "Rafa Mir",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1289": {
+        "id": "1289",
+        "positionId": "4",
+        "nickname": "Sorloth",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1318": {
+        "id": "1318",
+        "positionId": "4",
+        "nickname": "Nico Williams",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1319": {
+        "id": "1319",
+        "positionId": "4",
+        "nickname": "Abde",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1327": {
+        "id": "1327",
+        "positionId": "4",
+        "nickname": "Ferran Torres",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1329": {
+        "id": "1329",
+        "positionId": "4",
+        "nickname": "Borja Mayoral",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1352": {
+        "id": "1352",
+        "positionId": "4",
+        "nickname": "Muriqi",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1418": {
+        "id": "1418",
+        "positionId": "4",
+        "nickname": "Sadiq",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1447": {
+        "id": "1447",
+        "positionId": "4",
+        "nickname": "Stuani",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1484": {
+        "id": "1484",
+        "positionId": "4",
+        "nickname": "Guruzeta",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1504": {
+        "id": "1504",
+        "positionId": "4",
+        "nickname": "Raphinha",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1505": {
+        "id": "1505",
+        "positionId": "4",
+        "nickname": "Lewandowski",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1509": {
+        "id": "1509",
+        "positionId": "4",
+        "nickname": "Carles Pérez",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1530": {
+        "id": "1530",
+        "positionId": "4",
+        "nickname": "Latasa",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1577": {
+        "id": "1577",
+        "positionId": "4",
+        "nickname": "Tsygankov",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1580": {
+        "id": "1580",
+        "positionId": "4",
+        "nickname": "Larin",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1593": {
+        "id": "1593",
+        "positionId": "4",
+        "nickname": "Ayoze Pérez",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1628": {
+        "id": "1628",
+        "positionId": "4",
+        "nickname": "Pejiño",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1687": {
+        "id": "1687",
+        "positionId": "4",
+        "nickname": "Jose Arnaiz",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1714": {
+        "id": "1714",
+        "positionId": "4",
+        "nickname": "Lamine Yamal",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1769": {
+        "id": "1769",
+        "positionId": "4",
+        "nickname": "Akhomach",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1779": {
+        "id": "1779",
+        "positionId": "4",
+        "nickname": "Canós",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1781": {
+        "id": "1781",
+        "positionId": "4",
+        "nickname": "Lukébakio",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1784": {
+        "id": "1784",
+        "positionId": "4",
+        "nickname": "Douvikas",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1798": {
+        "id": "1798",
+        "positionId": "4",
+        "nickname": "Raúl",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1799": {
+        "id": "1799",
+        "positionId": "4",
+        "nickname": "Javi Llabrés",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1802": {
+        "id": "1802",
+        "positionId": "4",
+        "nickname": "Diao",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1813": {
+        "id": "1813",
+        "positionId": "4",
+        "nickname": "Carlos Vicente",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1818": {
+        "id": "1818",
+        "positionId": "4",
+        "nickname": "Vitor Roque",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1821": {
+        "id": "1821",
+        "positionId": "4",
+        "nickname": "Isaac",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1841": {
+        "id": "1841",
+        "positionId": "4",
+        "nickname": "Bakambu",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1845": {
+        "id": "1845",
+        "positionId": "4",
+        "nickname": "Allende",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1846": {
+        "id": "1846",
+        "positionId": "4",
+        "nickname": "Alejo Véliz",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1877": {
+        "id": "1877",
+        "positionId": "4",
+        "nickname": "Miguel",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1878": {
+        "id": "1878",
+        "positionId": "4",
+        "nickname": "Raba",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1879": {
+        "id": "1879",
+        "positionId": "4",
+        "nickname": "Diego",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "1910": {
+        "id": "1910",
+        "positionId": "4",
+        "nickname": "M Sylla",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1911": {
+        "id": "1911",
+        "positionId": "4",
+        "nickname": "Marcos André",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1913": {
+        "id": "1913",
+        "positionId": "4",
+        "nickname": "Amath",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1949": {
+        "id": "1949",
+        "positionId": "4",
+        "nickname": "Pere Milla",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1950": {
+        "id": "1950",
+        "positionId": "4",
+        "nickname": "Jofre",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1954": {
+        "id": "1954",
+        "positionId": "4",
+        "nickname": "Omar",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1960": {
+        "id": "1960",
+        "positionId": "4",
+        "nickname": "Martón",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1961": {
+        "id": "1961",
+        "positionId": "4",
+        "nickname": "Nico Serrano",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1964": {
+        "id": "1964",
+        "positionId": "4",
+        "nickname": "Álvaro Djaló",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1970": {
+        "id": "1970",
+        "positionId": "4",
+        "nickname": "Mbappe",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1971": {
+        "id": "1971",
+        "positionId": "4",
+        "nickname": "Endrick",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1974": {
+        "id": "1974",
+        "positionId": "4",
+        "nickname": "Dani Gómez",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1983": {
+        "id": "1983",
+        "positionId": "4",
+        "nickname": "Bryan",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1985": {
+        "id": "1985",
+        "positionId": "4",
+        "nickname": "Abel Ruiz",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1986": {
+        "id": "1986",
+        "positionId": "4",
+        "nickname": "Peque",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1987": {
+        "id": "1987",
+        "positionId": "4",
+        "nickname": "Ejuke",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1989": {
+        "id": "1989",
+        "positionId": "4",
+        "nickname": "Sergio Gómez",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1990": {
+        "id": "1990",
+        "positionId": "4",
+        "nickname": "Asano",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1995": {
+        "id": "1995",
+        "positionId": "4",
+        "nickname": "Nicolas Pépé",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1997": {
+        "id": "1997",
+        "positionId": "4",
+        "nickname": "Machis",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "2004": {
+        "id": "2004",
+        "positionId": "4",
+        "nickname": "Bryan",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "2007": {
+        "id": "2007",
+        "positionId": "4",
+        "nickname": "Tomás Conechny",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2008": {
+        "id": "2008",
+        "positionId": "4",
+        "nickname": "Ansu Fati",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2010": {
+        "id": "2010",
+        "positionId": "4",
+        "nickname": "Embarba",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2013": {
+        "id": "2013",
+        "positionId": "4",
+        "nickname": "B Iglesias",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2017": {
+        "id": "2017",
+        "positionId": "4",
+        "nickname": "Juanmi",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "2025": {
+        "id": "2025",
+        "positionId": "4",
+        "nickname": "Oliver McBurnie",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2037": {
+        "id": "2037",
+        "positionId": "4",
+        "nickname": "Julián Alvarez",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "2042": {
+        "id": "2042",
+        "positionId": "4",
+        "nickname": "I Benito",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "2055": {
+        "id": "2055",
+        "positionId": "4",
+        "nickname": "Cardona",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "2067": {
+        "id": "2067",
+        "positionId": "4",
+        "nickname": "Pablo Durán",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2086": {
+        "id": "2086",
+        "positionId": "4",
+        "nickname": "Iheanacho",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "2087": {
+        "id": "2087",
+        "positionId": "4",
+        "nickname": "Miovski",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "2091": {
+        "id": "2091",
+        "positionId": "4",
+        "nickname": "Barry",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2099": {
+        "id": "2099",
+        "positionId": "4",
+        "nickname": "Asprilla",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "2100": {
+        "id": "2100",
+        "positionId": "4",
+        "nickname": "Bertug",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2101": {
+        "id": "2101",
+        "positionId": "4",
+        "nickname": "Walid Cheddira",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "2102": {
+        "id": "2102",
+        "positionId": "4",
+        "nickname": "T Martinez",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "2108": {
+        "id": "2108",
+        "positionId": "4",
+        "nickname": "Sébastien Haller",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "2109": {
+        "id": "2109",
+        "positionId": "4",
+        "nickname": "Otorbi",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "2111": {
+        "id": "2111",
+        "positionId": "4",
+        "nickname": "Álvaro",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "2117": {
+        "id": "2117",
+        "positionId": "4",
+        "nickname": "Chiquinho",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "2122": {
+        "id": "2122",
+        "positionId": "4",
+        "nickname": "Alfon",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "2124": {
+        "id": "2124",
+        "positionId": "4",
+        "nickname": "E Etoo",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2132": {
+        "id": "2132",
+        "positionId": "4",
+        "nickname": "Orri Óskarsson",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "2136": {
+        "id": "2136",
+        "positionId": "4",
+        "nickname": "Pau Cabanes",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "2140": {
+        "id": "2140",
+        "positionId": "4",
+        "nickname": "Fabio Silva",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "2145": {
+        "id": "2145",
+        "positionId": "4",
+        "nickname": "Guardiola",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "2147": {
+        "id": "2147",
+        "positionId": "4",
+        "nickname": "Canales",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1356": {
+        "id": "1356",
+        "positionId": "5",
+        "nickname": "Marcelino",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1357": {
+        "id": "1357",
+        "positionId": "5",
+        "nickname": "Simeone",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1358": {
+        "id": "1358",
+        "positionId": "5",
+        "nickname": "Jagoba Arrasate",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1367": {
+        "id": "1367",
+        "positionId": "5",
+        "nickname": "Manuel Pellegrini",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1368": {
+        "id": "1368",
+        "positionId": "5",
+        "nickname": "Ancelotti",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1369": {
+        "id": "1369",
+        "positionId": "5",
+        "nickname": "Imanol Alguacil",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1442": {
+        "id": "1442",
+        "positionId": "5",
+        "nickname": "Michel",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1481": {
+        "id": "1481",
+        "positionId": "5",
+        "nickname": "Ernesto Valverde",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1600": {
+        "id": "1600",
+        "positionId": "5",
+        "nickname": "Rubén Baraja",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1611": {
+        "id": "1611",
+        "positionId": "5",
+        "nickname": "Jose Bordalas",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1638": {
+        "id": "1638",
+        "positionId": "5",
+        "nickname": "Garcia Pimienta",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1672": {
+        "id": "1672",
+        "positionId": "5",
+        "nickname": "Luis Garcia",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1849": {
+        "id": "1849",
+        "positionId": "5",
+        "nickname": "Iñigo Perez",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1851": {
+        "id": "1851",
+        "positionId": "5",
+        "nickname": "Claudio Giraldez",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1918": {
+        "id": "1918",
+        "positionId": "5",
+        "nickname": "Pezzolano",
+        "team_slug": "r-valladolid-cf",
+        "team_id": "19"
+    },
+    "1957": {
+        "id": "1957",
+        "positionId": "5",
+        "nickname": "Manolo González",
+        "team_slug": "rcd-espanyol",
+        "team_id": "8"
+    },
+    "1976": {
+        "id": "1976",
+        "positionId": "5",
+        "nickname": "Hans-Dieter Flick",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "2001": {
+        "id": "2001",
+        "positionId": "5",
+        "nickname": "Borja Jimenez",
+        "team_slug": "cd-leganes",
+        "team_id": "54"
+    },
+    "2033": {
+        "id": "2033",
+        "positionId": "5",
+        "nickname": "Vicente Moreno",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "2144": {
+        "id": "2144",
+        "positionId": "5",
+        "nickname": "Diego Martínez",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    }
+}

@@ -1,0 +1,4378 @@
+{
+    "53": {
+        "id": "53",
+        "positionId": "1",
+        "nickname": "Oblak",
+        "lastSeasonPoints": "164",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "68": {
+        "id": "68",
+        "positionId": "1",
+        "nickname": "Unai Sim\u00f3n",
+        "lastSeasonPoints": "166",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "93": {
+        "id": "93",
+        "positionId": "1",
+        "nickname": "Ter Stegen",
+        "lastSeasonPoints": "284",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "140": {
+        "id": "140",
+        "positionId": "1",
+        "nickname": "Iv\u00e1n Villar",
+        "lastSeasonPoints": "85",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "184": {
+        "id": "184",
+        "positionId": "1",
+        "nickname": "David Soria",
+        "lastSeasonPoints": "237",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "204": {
+        "id": "204",
+        "positionId": "1",
+        "nickname": "Aitor Fdez.",
+        "lastSeasonPoints": "126",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "230": {
+        "id": "230",
+        "positionId": "1",
+        "nickname": "Courtois",
+        "lastSeasonPoints": "224",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "274": {
+        "id": "274",
+        "positionId": "1",
+        "nickname": "Remiro",
+        "lastSeasonPoints": "230",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "298": {
+        "id": "298",
+        "positionId": "1",
+        "nickname": "Jaume Domenech",
+        "lastSeasonPoints": "0",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "608": {
+        "id": "608",
+        "positionId": "1",
+        "nickname": "Aar\u00f3n Escandell",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "644": {
+        "id": "644",
+        "positionId": "1",
+        "nickname": "Sergio Herrera",
+        "lastSeasonPoints": "74",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "804": {
+        "id": "804",
+        "positionId": "1",
+        "nickname": "David Gil",
+        "lastSeasonPoints": "24",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "905": {
+        "id": "905",
+        "positionId": "1",
+        "nickname": "Claudio Bravo",
+        "lastSeasonPoints": "70",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "908": {
+        "id": "908",
+        "positionId": "1",
+        "nickname": "Lunin",
+        "lastSeasonPoints": "42",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "947": {
+        "id": "947",
+        "positionId": "1",
+        "nickname": "Ledesma",
+        "lastSeasonPoints": "210",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "988": {
+        "id": "988",
+        "positionId": "1",
+        "nickname": "Sivera",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "993": {
+        "id": "993",
+        "positionId": "1",
+        "nickname": "Grbi\u0107",
+        "lastSeasonPoints": "57",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1024": {
+        "id": "1024",
+        "positionId": "1",
+        "nickname": "C\u00e1rdenas",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1046": {
+        "id": "1046",
+        "positionId": "1",
+        "nickname": "Dimitrievski",
+        "lastSeasonPoints": "168",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1100": {
+        "id": "1100",
+        "positionId": "1",
+        "nickname": "Cristian Rivero",
+        "lastSeasonPoints": "0",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1132": {
+        "id": "1132",
+        "positionId": "1",
+        "nickname": "Rui Silva",
+        "lastSeasonPoints": "144",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1163": {
+        "id": "1163",
+        "positionId": "1",
+        "nickname": "Dmitrovic",
+        "lastSeasonPoints": "77",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1184": {
+        "id": "1184",
+        "positionId": "1",
+        "nickname": "Greif",
+        "lastSeasonPoints": "6",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1219": {
+        "id": "1219",
+        "positionId": "1",
+        "nickname": "Agirrezabala",
+        "lastSeasonPoints": "41",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1244": {
+        "id": "1244",
+        "positionId": "1",
+        "nickname": "Fuidias",
+        "lastSeasonPoints": "0",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1255": {
+        "id": "1255",
+        "positionId": "1",
+        "nickname": "Mamardashvili",
+        "lastSeasonPoints": "182",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1277": {
+        "id": "1277",
+        "positionId": "1",
+        "nickname": "Maximiano",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1422": {
+        "id": "1422",
+        "positionId": "1",
+        "nickname": "Fernando",
+        "lastSeasonPoints": "179",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1443": {
+        "id": "1443",
+        "positionId": "1",
+        "nickname": "Juan Carlos",
+        "lastSeasonPoints": "42",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1479": {
+        "id": "1479",
+        "positionId": "1",
+        "nickname": "Pepe Reina",
+        "lastSeasonPoints": "119",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1490": {
+        "id": "1490",
+        "positionId": "1",
+        "nickname": "Rajkovic",
+        "lastSeasonPoints": "186",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1493": {
+        "id": "1493",
+        "positionId": "1",
+        "nickname": "Marches\u00edn",
+        "lastSeasonPoints": "100",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1544": {
+        "id": "1544",
+        "positionId": "1",
+        "nickname": "Gazzaniga",
+        "lastSeasonPoints": "150",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1571": {
+        "id": "1571",
+        "positionId": "1",
+        "nickname": "I\u00f1aki Pe\u00f1a",
+        "lastSeasonPoints": "4",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1573": {
+        "id": "1573",
+        "positionId": "1",
+        "nickname": "J\u00f6rgensen",
+        "lastSeasonPoints": "6",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1587": {
+        "id": "1587",
+        "positionId": "1",
+        "nickname": "Mari\u00f1o",
+        "lastSeasonPoints": "2",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1621": {
+        "id": "1621",
+        "positionId": "1",
+        "nickname": "Vall\u00e9s",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1639": {
+        "id": "1639",
+        "positionId": "1",
+        "nickname": "Ra\u00fal F",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1645": {
+        "id": "1645",
+        "positionId": "1",
+        "nickname": "Andr\u00e9 F.",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1652": {
+        "id": "1652",
+        "positionId": "1",
+        "nickname": "Adri Lopez",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1665": {
+        "id": "1665",
+        "positionId": "1",
+        "nickname": "Owono",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1667": {
+        "id": "1667",
+        "positionId": "1",
+        "nickname": "Rodriguez",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1692": {
+        "id": "1692",
+        "positionId": "1",
+        "nickname": "Fuzato",
+        "lastSeasonPoints": 0,
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1712": {
+        "id": "1712",
+        "positionId": "1",
+        "nickname": "Arrizabalaga",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1722": {
+        "id": "1722",
+        "positionId": "1",
+        "nickname": "Nyland",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1726": {
+        "id": "1726",
+        "positionId": "1",
+        "nickname": "Gomis",
+        "lastSeasonPoints": 0,
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1728": {
+        "id": "1728",
+        "positionId": "1",
+        "nickname": "Valencia",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1736": {
+        "id": "1736",
+        "positionId": "1",
+        "nickname": "Astralaga",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1737": {
+        "id": "1737",
+        "positionId": "1",
+        "nickname": "Kochen",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1744": {
+        "id": "1744",
+        "positionId": "1",
+        "nickname": "Carrillo",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1747": {
+        "id": "1747",
+        "positionId": "1",
+        "nickname": "Vieites",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1749": {
+        "id": "1749",
+        "positionId": "1",
+        "nickname": "Ca\u00f1izares",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1750": {
+        "id": "1750",
+        "positionId": "1",
+        "nickname": "Marrero",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1751": {
+        "id": "1751",
+        "positionId": "1",
+        "nickname": "Fraga",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1753": {
+        "id": "1753",
+        "positionId": "1",
+        "nickname": "Matias",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1756": {
+        "id": "1756",
+        "positionId": "1",
+        "nickname": "Bruno Iribarne",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1770": {
+        "id": "1770",
+        "positionId": "1",
+        "nickname": "Guilherme Fernandes",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1771": {
+        "id": "1771",
+        "positionId": "1",
+        "nickname": "Pi\u00f1eiro",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1772": {
+        "id": "1772",
+        "positionId": "1",
+        "nickname": "Raul",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1777": {
+        "id": "1777",
+        "positionId": "1",
+        "nickname": "Stamatakis",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1778": {
+        "id": "1778",
+        "positionId": "1",
+        "nickname": "Gaizka",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1783": {
+        "id": "1783",
+        "positionId": "1",
+        "nickname": "Cuellar",
+        "lastSeasonPoints": 0,
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1793": {
+        "id": "1793",
+        "positionId": "1",
+        "nickname": "Guaita",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "55": {
+        "id": "55",
+        "positionId": "2",
+        "nickname": "Gim\u00e9nez",
+        "lastSeasonPoints": "173",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "56": {
+        "id": "56",
+        "positionId": "2",
+        "nickname": "Savic",
+        "lastSeasonPoints": "101",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "72": {
+        "id": "72",
+        "positionId": "2",
+        "nickname": "De Marcos",
+        "lastSeasonPoints": "157",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "73": {
+        "id": "73",
+        "positionId": "2",
+        "nickname": "Lekue",
+        "lastSeasonPoints": "67",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "74": {
+        "id": "74",
+        "positionId": "2",
+        "nickname": "Yuri",
+        "lastSeasonPoints": "105",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "75": {
+        "id": "75",
+        "positionId": "2",
+        "nickname": "I\u00f1igo Mart\u00ednez",
+        "lastSeasonPoints": "81",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "77": {
+        "id": "77",
+        "positionId": "2",
+        "nickname": "Yeray",
+        "lastSeasonPoints": "135",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "78": {
+        "id": "78",
+        "positionId": "2",
+        "nickname": "Unai Nu\u00f1ez",
+        "lastSeasonPoints": "156",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "97": {
+        "id": "97",
+        "positionId": "2",
+        "nickname": "Sergi Roberto",
+        "lastSeasonPoints": "104",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "118": {
+        "id": "118",
+        "positionId": "2",
+        "nickname": "Mandi",
+        "lastSeasonPoints": "77",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "121": {
+        "id": "121",
+        "positionId": "2",
+        "nickname": "Bartra",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "146": {
+        "id": "146",
+        "positionId": "2",
+        "nickname": "Kevin V\u00e1zquez",
+        "lastSeasonPoints": "21",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "166": {
+        "id": "166",
+        "positionId": "2",
+        "nickname": "Hermoso",
+        "lastSeasonPoints": "142",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "187": {
+        "id": "187",
+        "positionId": "2",
+        "nickname": "Dami\u00e1n",
+        "lastSeasonPoints": "97",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "192": {
+        "id": "192",
+        "positionId": "2",
+        "nickname": "Djen\u00e9",
+        "lastSeasonPoints": "125",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "231": {
+        "id": "231",
+        "positionId": "2",
+        "nickname": "Carvajal",
+        "lastSeasonPoints": "74",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "236": {
+        "id": "236",
+        "positionId": "2",
+        "nickname": "Nacho",
+        "lastSeasonPoints": "108",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "245": {
+        "id": "245",
+        "positionId": "2",
+        "nickname": "Lucas V\u00e1zquez",
+        "lastSeasonPoints": "92",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "255": {
+        "id": "255",
+        "positionId": "2",
+        "nickname": "Le Normand",
+        "lastSeasonPoints": "163",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "257": {
+        "id": "257",
+        "positionId": "2",
+        "nickname": "Gorosabel",
+        "lastSeasonPoints": "95",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "258": {
+        "id": "258",
+        "positionId": "2",
+        "nickname": "Zaldua",
+        "lastSeasonPoints": "11",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "259": {
+        "id": "259",
+        "positionId": "2",
+        "nickname": "Aritz",
+        "lastSeasonPoints": "86",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "260": {
+        "id": "260",
+        "positionId": "2",
+        "nickname": "Aihen",
+        "lastSeasonPoints": "81",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "265": {
+        "id": "265",
+        "positionId": "2",
+        "nickname": "Zubeldia",
+        "lastSeasonPoints": "148",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "284": {
+        "id": "284",
+        "positionId": "2",
+        "nickname": "Navas",
+        "lastSeasonPoints": "81",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "300": {
+        "id": "300",
+        "positionId": "2",
+        "nickname": "Diakhaby",
+        "lastSeasonPoints": "136",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "301": {
+        "id": "301",
+        "positionId": "2",
+        "nickname": "Gabriel Paulista",
+        "lastSeasonPoints": "73",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "302": {
+        "id": "302",
+        "positionId": "2",
+        "nickname": "Gay\u00e1",
+        "lastSeasonPoints": "124",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "341": {
+        "id": "341",
+        "positionId": "2",
+        "nickname": "Jaume Costa",
+        "lastSeasonPoints": "105",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "344": {
+        "id": "344",
+        "positionId": "2",
+        "nickname": "Pedraza",
+        "lastSeasonPoints": "99",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "360": {
+        "id": "360",
+        "positionId": "2",
+        "nickname": "Rub\u00e9n Pe\u00f1a",
+        "lastSeasonPoints": "62",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "365": {
+        "id": "365",
+        "positionId": "2",
+        "nickname": "Duarte",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "558": {
+        "id": "558",
+        "positionId": "2",
+        "nickname": "Milit\u00e3o",
+        "lastSeasonPoints": "188",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "559": {
+        "id": "559",
+        "positionId": "2",
+        "nickname": "Mendy",
+        "lastSeasonPoints": "66",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "566": {
+        "id": "566",
+        "positionId": "2",
+        "nickname": "Kound\u00e9",
+        "lastSeasonPoints": "184",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "574": {
+        "id": "574",
+        "positionId": "2",
+        "nickname": "Albiol",
+        "lastSeasonPoints": "121",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "593": {
+        "id": "593",
+        "positionId": "2",
+        "nickname": "V\u00edctor D\u00edaz",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "597": {
+        "id": "597",
+        "positionId": "2",
+        "nickname": "Neva",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "642": {
+        "id": "642",
+        "positionId": "2",
+        "nickname": "Nacho Vidal",
+        "lastSeasonPoints": "58",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "645": {
+        "id": "645",
+        "positionId": "2",
+        "nickname": "Aridane",
+        "lastSeasonPoints": "105",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "649": {
+        "id": "649",
+        "positionId": "2",
+        "nickname": "Unai Garc\u00eda",
+        "lastSeasonPoints": "76",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "650": {
+        "id": "650",
+        "positionId": "2",
+        "nickname": "David Garc\u00eda",
+        "lastSeasonPoints": "156",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "664": {
+        "id": "664",
+        "positionId": "2",
+        "nickname": "Alberto Moreno",
+        "lastSeasonPoints": "67",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "665": {
+        "id": "665",
+        "positionId": "2",
+        "nickname": "Aidoo",
+        "lastSeasonPoints": "178",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "673": {
+        "id": "673",
+        "positionId": "2",
+        "nickname": "Domingos Duarte",
+        "lastSeasonPoints": "121",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "742": {
+        "id": "742",
+        "positionId": "2",
+        "nickname": "Thierry Correia",
+        "lastSeasonPoints": "84",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "768": {
+        "id": "768",
+        "positionId": "2",
+        "nickname": "Foulquier",
+        "lastSeasonPoints": "80",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "801": {
+        "id": "801",
+        "positionId": "2",
+        "nickname": "Espino",
+        "lastSeasonPoints": "138",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "805": {
+        "id": "805",
+        "positionId": "2",
+        "nickname": "Fali",
+        "lastSeasonPoints": "88",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "809": {
+        "id": "809",
+        "positionId": "2",
+        "nickname": "Iza",
+        "lastSeasonPoints": "126",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "850": {
+        "id": "850",
+        "positionId": "2",
+        "nickname": "Juan Cruz",
+        "lastSeasonPoints": "72",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "859": {
+        "id": "859",
+        "positionId": "2",
+        "nickname": "Lato",
+        "lastSeasonPoints": "69",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "894": {
+        "id": "894",
+        "positionId": "2",
+        "nickname": "Javi L\u00f3pez",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "897": {
+        "id": "897",
+        "positionId": "2",
+        "nickname": "Nolaskoain",
+        "lastSeasonPoints": "0",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "901": {
+        "id": "901",
+        "positionId": "2",
+        "nickname": "Odriozola",
+        "lastSeasonPoints": "5",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "912": {
+        "id": "912",
+        "positionId": "2",
+        "nickname": "Acu\u00f1a",
+        "lastSeasonPoints": "94",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "939": {
+        "id": "939",
+        "positionId": "2",
+        "nickname": "Ara\u00fajo",
+        "lastSeasonPoints": "130",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "944": {
+        "id": "944",
+        "positionId": "2",
+        "nickname": "Foyth",
+        "lastSeasonPoints": "102",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "978": {
+        "id": "978",
+        "positionId": "2",
+        "nickname": "Miranda",
+        "lastSeasonPoints": "96",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "991": {
+        "id": "991",
+        "positionId": "2",
+        "nickname": "Mingueza",
+        "lastSeasonPoints": "52",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1010": {
+        "id": "1010",
+        "positionId": "2",
+        "nickname": "Andrei Florin",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1033": {
+        "id": "1033",
+        "positionId": "2",
+        "nickname": "Catena",
+        "lastSeasonPoints": "152",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1049": {
+        "id": "1049",
+        "positionId": "2",
+        "nickname": "David L\u00f3pez",
+        "lastSeasonPoints": "101",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1056": {
+        "id": "1056",
+        "positionId": "2",
+        "nickname": "Pedrosa",
+        "lastSeasonPoints": "24",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1090": {
+        "id": "1090",
+        "positionId": "2",
+        "nickname": "Ra\u00edllo",
+        "lastSeasonPoints": "188",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1091": {
+        "id": "1091",
+        "positionId": "2",
+        "nickname": "Sedlar",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1096": {
+        "id": "1096",
+        "positionId": "2",
+        "nickname": "Areso",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1097": {
+        "id": "1097",
+        "positionId": "2",
+        "nickname": "Maffeo",
+        "lastSeasonPoints": "139",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1099": {
+        "id": "1099",
+        "positionId": "2",
+        "nickname": "Mart\u00edn",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1121": {
+        "id": "1121",
+        "positionId": "2",
+        "nickname": "Balliu",
+        "lastSeasonPoints": "90",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1123": {
+        "id": "1123",
+        "positionId": "2",
+        "nickname": "Valjent",
+        "lastSeasonPoints": "135",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1130": {
+        "id": "1130",
+        "positionId": "2",
+        "nickname": "Eric Garc\u00eda",
+        "lastSeasonPoints": "83",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1133": {
+        "id": "1133",
+        "positionId": "2",
+        "nickname": "Sabaly",
+        "lastSeasonPoints": "99",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1147": {
+        "id": "1147",
+        "positionId": "2",
+        "nickname": "Juan Iglesias",
+        "lastSeasonPoints": "85",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1148": {
+        "id": "1148",
+        "positionId": "2",
+        "nickname": "Mitrovic",
+        "lastSeasonPoints": "97",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1157": {
+        "id": "1157",
+        "positionId": "2",
+        "nickname": "Alaba",
+        "lastSeasonPoints": "113",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1159": {
+        "id": "1159",
+        "positionId": "2",
+        "nickname": "Vallejo",
+        "lastSeasonPoints": "2",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1165": {
+        "id": "1165",
+        "positionId": "2",
+        "nickname": "Alderete",
+        "lastSeasonPoints": "97",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1168": {
+        "id": "1168",
+        "positionId": "2",
+        "nickname": "Manu S\u00e1nchez",
+        "lastSeasonPoints": "103",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1179": {
+        "id": "1179",
+        "positionId": "2",
+        "nickname": "Diego Rico",
+        "lastSeasonPoints": "78",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1190": {
+        "id": "1190",
+        "positionId": "2",
+        "nickname": "Miquel",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1200": {
+        "id": "1200",
+        "positionId": "2",
+        "nickname": "Mojica",
+        "lastSeasonPoints": "41",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1201": {
+        "id": "1201",
+        "positionId": "2",
+        "nickname": "Edgar",
+        "lastSeasonPoints": "122",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1204": {
+        "id": "1204",
+        "positionId": "2",
+        "nickname": "Javi Gal\u00e1n",
+        "lastSeasonPoints": "137",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1208": {
+        "id": "1208",
+        "positionId": "2",
+        "nickname": "Lejeune",
+        "lastSeasonPoints": "132",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1216": {
+        "id": "1216",
+        "positionId": "2",
+        "nickname": "Jon Pacheco",
+        "lastSeasonPoints": "67",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1218": {
+        "id": "1218",
+        "positionId": "2",
+        "nickname": "\u00c1lex Balde",
+        "lastSeasonPoints": "203",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1222": {
+        "id": "1222",
+        "positionId": "2",
+        "nickname": "Vivian",
+        "lastSeasonPoints": "132",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1227": {
+        "id": "1227",
+        "positionId": "2",
+        "nickname": "Carlos Dom\u00ednguez",
+        "lastSeasonPoints": "10",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1245": {
+        "id": "1245",
+        "positionId": "2",
+        "nickname": "Miguel Guti\u00e9rrez",
+        "lastSeasonPoints": "141",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1251": {
+        "id": "1251",
+        "positionId": "2",
+        "nickname": "Carmona",
+        "lastSeasonPoints": "59",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1253": {
+        "id": "1253",
+        "positionId": "2",
+        "nickname": "Pozo",
+        "lastSeasonPoints": "96",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1256": {
+        "id": "1256",
+        "positionId": "2",
+        "nickname": "Jes\u00fas V\u00e1zquez",
+        "lastSeasonPoints": "27",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1261": {
+        "id": "1261",
+        "positionId": "2",
+        "nickname": "Cuenca",
+        "lastSeasonPoints": "36",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1263": {
+        "id": "1263",
+        "positionId": "2",
+        "nickname": "Chust",
+        "lastSeasonPoints": "49",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1265": {
+        "id": "1265",
+        "positionId": "2",
+        "nickname": "Abqar",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1269": {
+        "id": "1269",
+        "positionId": "2",
+        "nickname": "Fran Garc\u00eda",
+        "lastSeasonPoints": "145",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1295": {
+        "id": "1295",
+        "positionId": "2",
+        "nickname": "Pezzella",
+        "lastSeasonPoints": "147",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1305": {
+        "id": "1305",
+        "positionId": "2",
+        "nickname": "Beller\u00edn",
+        "lastSeasonPoints": "12",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1321": {
+        "id": "1321",
+        "positionId": "2",
+        "nickname": "Maras",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1322": {
+        "id": "1322",
+        "positionId": "2",
+        "nickname": "Torrente",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1337": {
+        "id": "1337",
+        "positionId": "2",
+        "nickname": "Tenaglia",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1344": {
+        "id": "1344",
+        "positionId": "2",
+        "nickname": "Luis Hern\u00e1ndez",
+        "lastSeasonPoints": "129",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1345": {
+        "id": "1345",
+        "positionId": "2",
+        "nickname": "Gast\u00f3n",
+        "lastSeasonPoints": "61",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1351": {
+        "id": "1351",
+        "positionId": "2",
+        "nickname": "Gio Gonz\u00e1lez",
+        "lastSeasonPoints": "59",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1353": {
+        "id": "1353",
+        "positionId": "2",
+        "nickname": "Reinildo",
+        "lastSeasonPoints": "112",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1424": {
+        "id": "1424",
+        "positionId": "2",
+        "nickname": "Akieme",
+        "lastSeasonPoints": "78",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1426": {
+        "id": "1426",
+        "positionId": "2",
+        "nickname": "Centelles",
+        "lastSeasonPoints": "50",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1427": {
+        "id": "1427",
+        "positionId": "2",
+        "nickname": "Chumi",
+        "lastSeasonPoints": "47",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1444": {
+        "id": "1444",
+        "positionId": "2",
+        "nickname": "Bernardo",
+        "lastSeasonPoints": "57",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1450": {
+        "id": "1450",
+        "positionId": "2",
+        "nickname": "Valery",
+        "lastSeasonPoints": "71",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1453": {
+        "id": "1453",
+        "positionId": "2",
+        "nickname": "Juanpe",
+        "lastSeasonPoints": "58",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1468": {
+        "id": "1468",
+        "positionId": "2",
+        "nickname": "Arnau",
+        "lastSeasonPoints": "119",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1474": {
+        "id": "1474",
+        "positionId": "2",
+        "nickname": "R\u00fcdiger",
+        "lastSeasonPoints": "153",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1476": {
+        "id": "1476",
+        "positionId": "2",
+        "nickname": "Mendes",
+        "lastSeasonPoints": "14",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1478": {
+        "id": "1478",
+        "positionId": "2",
+        "nickname": "Marcao",
+        "lastSeasonPoints": "15",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1482": {
+        "id": "1482",
+        "positionId": "2",
+        "nickname": "Copete",
+        "lastSeasonPoints": "125",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1487": {
+        "id": "1487",
+        "positionId": "2",
+        "nickname": "Angileri",
+        "lastSeasonPoints": "7",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1491": {
+        "id": "1491",
+        "positionId": "2",
+        "nickname": "Nahuel Molina",
+        "lastSeasonPoints": "134",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1495": {
+        "id": "1495",
+        "positionId": "2",
+        "nickname": "Kiko Femen\u00eda",
+        "lastSeasonPoints": "54",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1496": {
+        "id": "1496",
+        "positionId": "2",
+        "nickname": "Yan Couto",
+        "lastSeasonPoints": "77",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1497": {
+        "id": "1497",
+        "positionId": "2",
+        "nickname": "\u00c1lex Sola",
+        "lastSeasonPoints": "23",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1507": {
+        "id": "1507",
+        "positionId": "2",
+        "nickname": "Christensen",
+        "lastSeasonPoints": "117",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1508": {
+        "id": "1508",
+        "positionId": "2",
+        "nickname": "Kaiky",
+        "lastSeasonPoints": "17",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1514": {
+        "id": "1514",
+        "positionId": "2",
+        "nickname": "Momo Mbaye",
+        "lastSeasonPoints": "34",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1515": {
+        "id": "1515",
+        "positionId": "2",
+        "nickname": "Nianzou",
+        "lastSeasonPoints": "50",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1525": {
+        "id": "1525",
+        "positionId": "2",
+        "nickname": "Cenk",
+        "lastSeasonPoints": "73",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1535": {
+        "id": "1535",
+        "positionId": "2",
+        "nickname": "Chavarr\u00eda",
+        "lastSeasonPoints": "37",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1542": {
+        "id": "1542",
+        "positionId": "2",
+        "nickname": "Mumin",
+        "lastSeasonPoints": "37",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1546": {
+        "id": "1546",
+        "positionId": "2",
+        "nickname": "Nastasic",
+        "lastSeasonPoints": "51",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1552": {
+        "id": "1552",
+        "positionId": "2",
+        "nickname": "Marcos Alonso",
+        "lastSeasonPoints": "76",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1569": {
+        "id": "1569",
+        "positionId": "2",
+        "nickname": "C\u00e9sar Montes",
+        "lastSeasonPoints": "66",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1570": {
+        "id": "1570",
+        "positionId": "2",
+        "nickname": "Bad\u00e9",
+        "lastSeasonPoints": "95",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1576": {
+        "id": "1576",
+        "positionId": "2",
+        "nickname": "Abner",
+        "lastSeasonPoints": "7",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1594": {
+        "id": "1594",
+        "positionId": "2",
+        "nickname": "Mer\u00e9",
+        "lastSeasonPoints": "36",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1614": {
+        "id": "1614",
+        "positionId": "2",
+        "nickname": "Cardona",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1615": {
+        "id": "1615",
+        "positionId": "2",
+        "nickname": "\u00c1lex Su\u00e1rez",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1617": {
+        "id": "1617",
+        "positionId": "2",
+        "nickname": "E. Curbelo",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1622": {
+        "id": "1622",
+        "positionId": "2",
+        "nickname": "Lemos S",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1627": {
+        "id": "1627",
+        "positionId": "2",
+        "nickname": "Coco",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1640": {
+        "id": "1640",
+        "positionId": "2",
+        "nickname": "Miguel Rubio",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1650": {
+        "id": "1650",
+        "positionId": "2",
+        "nickname": "Ricard",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1651": {
+        "id": "1651",
+        "positionId": "2",
+        "nickname": "Miki Bosch",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1661": {
+        "id": "1661",
+        "positionId": "2",
+        "nickname": "Joseda",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1675": {
+        "id": "1675",
+        "positionId": "2",
+        "nickname": "Azpilicueta",
+        "lastSeasonPoints": 0,
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1677": {
+        "id": "1677",
+        "positionId": "2",
+        "nickname": "Paredes",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1679": {
+        "id": "1679",
+        "positionId": "2",
+        "nickname": "Imanol",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1680": {
+        "id": "1680",
+        "positionId": "2",
+        "nickname": "Daley Blind",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1685": {
+        "id": "1685",
+        "positionId": "2",
+        "nickname": "Gabbia",
+        "lastSeasonPoints": 0,
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1690": {
+        "id": "1690",
+        "positionId": "2",
+        "nickname": "Traor\u00e9",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1693": {
+        "id": "1693",
+        "positionId": "2",
+        "nickname": "Gattoni",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1695": {
+        "id": "1695",
+        "positionId": "2",
+        "nickname": "Sinkgraven",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1696": {
+        "id": "1696",
+        "positionId": "2",
+        "nickname": "Heyden",
+        "lastSeasonPoints": 0,
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1700": {
+        "id": "1700",
+        "positionId": "2",
+        "nickname": "Rafa Mar\u00edn",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1702": {
+        "id": "1702",
+        "positionId": "2",
+        "nickname": "Marc Pubill",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1704": {
+        "id": "1704",
+        "positionId": "2",
+        "nickname": "S\u00f6y\u00fcnc\u00fc",
+        "lastSeasonPoints": 0,
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1705": {
+        "id": "1705",
+        "positionId": "2",
+        "nickname": "Manaf\u00e1",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1707": {
+        "id": "1707",
+        "positionId": "2",
+        "nickname": "Mika Marmol",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1709": {
+        "id": "1709",
+        "positionId": "2",
+        "nickname": "Starfelt",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1710": {
+        "id": "1710",
+        "positionId": "2",
+        "nickname": "Cristhian",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1724": {
+        "id": "1724",
+        "positionId": "2",
+        "nickname": "Eguiluz",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1727": {
+        "id": "1727",
+        "positionId": "2",
+        "nickname": "Kostis",
+        "lastSeasonPoints": 0,
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1729": {
+        "id": "1729",
+        "positionId": "2",
+        "nickname": "Herrando",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1731": {
+        "id": "1731",
+        "positionId": "2",
+        "nickname": "Lucas Pires",
+        "lastSeasonPoints": 0,
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1739": {
+        "id": "1739",
+        "positionId": "2",
+        "nickname": "Gorka",
+        "lastSeasonPoints": 0,
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1743": {
+        "id": "1743",
+        "positionId": "2",
+        "nickname": "Diego M\u00e9ndez",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1748": {
+        "id": "1748",
+        "positionId": "2",
+        "nickname": "Chadi Riad",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1752": {
+        "id": "1752",
+        "positionId": "2",
+        "nickname": "De Zarate",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1758": {
+        "id": "1758",
+        "positionId": "2",
+        "nickname": "Araujo",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1759": {
+        "id": "1759",
+        "positionId": "2",
+        "nickname": "Joao Cancelo",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1760": {
+        "id": "1760",
+        "positionId": "2",
+        "nickname": "Kieran Tierney",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1761": {
+        "id": "1761",
+        "positionId": "2",
+        "nickname": "Herzog",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1763": {
+        "id": "1763",
+        "positionId": "2",
+        "nickname": "T\u00e1rrega",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1764": {
+        "id": "1764",
+        "positionId": "2",
+        "nickname": "Iranzo",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1768": {
+        "id": "1768",
+        "positionId": "2",
+        "nickname": "Alti",
+        "lastSeasonPoints": 0,
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1775": {
+        "id": "1775",
+        "positionId": "2",
+        "nickname": "Pau Cubrsi",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1791": {
+        "id": "1791",
+        "positionId": "2",
+        "nickname": "Sergio Ramos",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1794": {
+        "id": "1794",
+        "positionId": "2",
+        "nickname": "Ristic",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1800": {
+        "id": "1800",
+        "positionId": "2",
+        "nickname": "Kike Salas",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "58": {
+        "id": "58",
+        "positionId": "3",
+        "nickname": "Koke",
+        "lastSeasonPoints": "151",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "59": {
+        "id": "59",
+        "positionId": "3",
+        "nickname": "Lemar",
+        "lastSeasonPoints": "98",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "62": {
+        "id": "62",
+        "positionId": "3",
+        "nickname": "Sa\u00fal",
+        "lastSeasonPoints": "91",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "67": {
+        "id": "67",
+        "positionId": "3",
+        "nickname": "Marcos Llorente",
+        "lastSeasonPoints": "109",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "80": {
+        "id": "80",
+        "positionId": "3",
+        "nickname": "Dani Garc\u00eda",
+        "lastSeasonPoints": "89",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "81": {
+        "id": "81",
+        "positionId": "3",
+        "nickname": "Muniain",
+        "lastSeasonPoints": "132",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "82": {
+        "id": "82",
+        "positionId": "3",
+        "nickname": "Unai L\u00f3pez",
+        "lastSeasonPoints": "97",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "86": {
+        "id": "86",
+        "positionId": "3",
+        "nickname": "Ra\u00fal Garc\u00eda",
+        "lastSeasonPoints": "103",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "92": {
+        "id": "92",
+        "positionId": "3",
+        "nickname": "Vesga",
+        "lastSeasonPoints": "158",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "102": {
+        "id": "102",
+        "positionId": "3",
+        "nickname": "Rakiti\u0107",
+        "lastSeasonPoints": "113",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "124": {
+        "id": "124",
+        "positionId": "3",
+        "nickname": "Guardado",
+        "lastSeasonPoints": "88",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "127": {
+        "id": "127",
+        "positionId": "3",
+        "nickname": "William Carvalho",
+        "lastSeasonPoints": "157",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "136": {
+        "id": "136",
+        "positionId": "3",
+        "nickname": "Brasanac",
+        "lastSeasonPoints": "68",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "148": {
+        "id": "148",
+        "positionId": "3",
+        "nickname": "Fran Beltr\u00e1n",
+        "lastSeasonPoints": "150",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "150": {
+        "id": "150",
+        "positionId": "3",
+        "nickname": "Brais M\u00e9ndez",
+        "lastSeasonPoints": "190",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "193": {
+        "id": "193",
+        "positionId": "3",
+        "nickname": "Arambarri",
+        "lastSeasonPoints": "58",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "197": {
+        "id": "197",
+        "positionId": "3",
+        "nickname": "Maksimovic",
+        "lastSeasonPoints": "107",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "228": {
+        "id": "228",
+        "positionId": "3",
+        "nickname": "Melero",
+        "lastSeasonPoints": "129",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "238": {
+        "id": "238",
+        "positionId": "3",
+        "nickname": "Isco",
+        "lastSeasonPoints": "45",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "240": {
+        "id": "240",
+        "positionId": "3",
+        "nickname": "Modric",
+        "lastSeasonPoints": "135",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "243": {
+        "id": "243",
+        "positionId": "3",
+        "nickname": "Valverde",
+        "lastSeasonPoints": "203",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "246": {
+        "id": "246",
+        "positionId": "3",
+        "nickname": "Kroos",
+        "lastSeasonPoints": "173",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "268": {
+        "id": "268",
+        "positionId": "3",
+        "nickname": "Januzaj",
+        "lastSeasonPoints": "5",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "270": {
+        "id": "270",
+        "positionId": "3",
+        "nickname": "Guevara",
+        "lastSeasonPoints": "18",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "271": {
+        "id": "271",
+        "positionId": "3",
+        "nickname": "Mikel Merino",
+        "lastSeasonPoints": "182",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "296": {
+        "id": "296",
+        "positionId": "3",
+        "nickname": "Jord\u00e1n",
+        "lastSeasonPoints": "68",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "307": {
+        "id": "307",
+        "positionId": "3",
+        "nickname": "Coquelin",
+        "lastSeasonPoints": "54",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "310": {
+        "id": "310",
+        "positionId": "3",
+        "nickname": "Parejo",
+        "lastSeasonPoints": "205",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "348": {
+        "id": "348",
+        "positionId": "3",
+        "nickname": "Trigueros",
+        "lastSeasonPoints": "54",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "544": {
+        "id": "544",
+        "positionId": "3",
+        "nickname": "De Jong",
+        "lastSeasonPoints": "195",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "547": {
+        "id": "547",
+        "positionId": "3",
+        "nickname": "Denis Su\u00e1rez",
+        "lastSeasonPoints": "52",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "581": {
+        "id": "581",
+        "positionId": "3",
+        "nickname": "Rioja",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "602": {
+        "id": "602",
+        "positionId": "3",
+        "nickname": "Antonio Puertas",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "637": {
+        "id": "637",
+        "positionId": "3",
+        "nickname": "Moncayola",
+        "lastSeasonPoints": "133",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "652": {
+        "id": "652",
+        "positionId": "3",
+        "nickname": "Rub\u00e9n Garc\u00eda",
+        "lastSeasonPoints": "106",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "669": {
+        "id": "669",
+        "positionId": "3",
+        "nickname": "Fernando",
+        "lastSeasonPoints": "85",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "675": {
+        "id": "675",
+        "positionId": "3",
+        "nickname": "\u00d3liver Torres",
+        "lastSeasonPoints": "118",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "680": {
+        "id": "680",
+        "positionId": "3",
+        "nickname": "Moi G\u00f3mez",
+        "lastSeasonPoints": "164",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "681": {
+        "id": "681",
+        "positionId": "3",
+        "nickname": "Fekir",
+        "lastSeasonPoints": "63",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "683": {
+        "id": "683",
+        "positionId": "3",
+        "nickname": "Gudelj",
+        "lastSeasonPoints": "153",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "701": {
+        "id": "701",
+        "positionId": "3",
+        "nickname": "Barrenetxea",
+        "lastSeasonPoints": "103",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "766": {
+        "id": "766",
+        "positionId": "3",
+        "nickname": "Sancet",
+        "lastSeasonPoints": "197",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "775": {
+        "id": "775",
+        "positionId": "3",
+        "nickname": "Guido Rodr\u00edguez",
+        "lastSeasonPoints": "170",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "816": {
+        "id": "816",
+        "positionId": "3",
+        "nickname": "Jose Mari",
+        "lastSeasonPoints": "32",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "817": {
+        "id": "817",
+        "positionId": "3",
+        "nickname": "\u00c1lex Fern\u00e1ndez",
+        "lastSeasonPoints": "104",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "818": {
+        "id": "818",
+        "positionId": "3",
+        "nickname": "Perea",
+        "lastSeasonPoints": "3",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "853": {
+        "id": "853",
+        "positionId": "3",
+        "nickname": "Milla",
+        "lastSeasonPoints": "115",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "855": {
+        "id": "855",
+        "positionId": "3",
+        "nickname": "Merquelanz",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "856": {
+        "id": "856",
+        "positionId": "3",
+        "nickname": "Guridi",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "873": {
+        "id": "873",
+        "positionId": "3",
+        "nickname": "Torr\u00f3",
+        "lastSeasonPoints": "142",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "874": {
+        "id": "874",
+        "positionId": "3",
+        "nickname": "\u00d3scar",
+        "lastSeasonPoints": "97",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "876": {
+        "id": "876",
+        "positionId": "3",
+        "nickname": "Guillam\u00f3n",
+        "lastSeasonPoints": "101",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "886": {
+        "id": "886",
+        "positionId": "3",
+        "nickname": "De Frutos",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "889": {
+        "id": "889",
+        "positionId": "3",
+        "nickname": "Zubimendi",
+        "lastSeasonPoints": "180",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "898": {
+        "id": "898",
+        "positionId": "3",
+        "nickname": "Tapia",
+        "lastSeasonPoints": "76",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "918": {
+        "id": "918",
+        "positionId": "3",
+        "nickname": "Pedri",
+        "lastSeasonPoints": "186",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "996": {
+        "id": "996",
+        "positionId": "3",
+        "nickname": "Capoue",
+        "lastSeasonPoints": "128",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1004": {
+        "id": "1004",
+        "positionId": "3",
+        "nickname": "Rodri",
+        "lastSeasonPoints": "138",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1022": {
+        "id": "1022",
+        "positionId": "3",
+        "nickname": "\u00c1lex Baena",
+        "lastSeasonPoints": "146",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1031": {
+        "id": "1031",
+        "positionId": "3",
+        "nickname": "Comesa\u00f1a",
+        "lastSeasonPoints": "161",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1039": {
+        "id": "1039",
+        "positionId": "3",
+        "nickname": "Jos\u00e9 Pozo",
+        "lastSeasonPoints": "12",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1050": {
+        "id": "1050",
+        "positionId": "3",
+        "nickname": "Darder",
+        "lastSeasonPoints": "217",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1051": {
+        "id": "1051",
+        "positionId": "3",
+        "nickname": "Melendo",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1069": {
+        "id": "1069",
+        "positionId": "3",
+        "nickname": "Antonio S\u00e1nchez",
+        "lastSeasonPoints": "77",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1070": {
+        "id": "1070",
+        "positionId": "3",
+        "nickname": "De Galarreta",
+        "lastSeasonPoints": "132",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1072": {
+        "id": "1072",
+        "positionId": "3",
+        "nickname": "Dani Rodr\u00edguez",
+        "lastSeasonPoints": "173",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1073": {
+        "id": "1073",
+        "positionId": "3",
+        "nickname": "Baba",
+        "lastSeasonPoints": "89",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1088": {
+        "id": "1088",
+        "positionId": "3",
+        "nickname": "De Paul",
+        "lastSeasonPoints": "153",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1103": {
+        "id": "1103",
+        "positionId": "3",
+        "nickname": "\u00d3scar Valent\u00edn",
+        "lastSeasonPoints": "129",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1106": {
+        "id": "1106",
+        "positionId": "3",
+        "nickname": "Iv\u00e1n Mart\u00edn",
+        "lastSeasonPoints": "121",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1107": {
+        "id": "1107",
+        "positionId": "3",
+        "nickname": "Trejo",
+        "lastSeasonPoints": "143",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1134": {
+        "id": "1134",
+        "positionId": "3",
+        "nickname": "Cervi",
+        "lastSeasonPoints": "108",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1146": {
+        "id": "1146",
+        "positionId": "3",
+        "nickname": "Ale\u00f1\u00e1",
+        "lastSeasonPoints": "113",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1166": {
+        "id": "1166",
+        "positionId": "3",
+        "nickname": "Morlanes",
+        "lastSeasonPoints": "52",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1169": {
+        "id": "1169",
+        "positionId": "3",
+        "nickname": "Riquelme",
+        "lastSeasonPoints": "158",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1186": {
+        "id": "1186",
+        "positionId": "3",
+        "nickname": "Path\u00e9 Ciss",
+        "lastSeasonPoints": "81",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1197": {
+        "id": "1197",
+        "positionId": "3",
+        "nickname": "Kubo",
+        "lastSeasonPoints": "231",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1209": {
+        "id": "1209",
+        "positionId": "3",
+        "nickname": "Nteka",
+        "lastSeasonPoints": "60",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1214": {
+        "id": "1214",
+        "positionId": "3",
+        "nickname": "Robert Navarro",
+        "lastSeasonPoints": "36",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1215": {
+        "id": "1215",
+        "positionId": "3",
+        "nickname": "Turrientes",
+        "lastSeasonPoints": "8",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1221": {
+        "id": "1221",
+        "positionId": "3",
+        "nickname": "Gavi",
+        "lastSeasonPoints": "171",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1246": {
+        "id": "1246",
+        "positionId": "3",
+        "nickname": "Blanco",
+        "lastSeasonPoints": "6",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1291": {
+        "id": "1291",
+        "positionId": "3",
+        "nickname": "Mascarell",
+        "lastSeasonPoints": "110",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1300": {
+        "id": "1300",
+        "positionId": "3",
+        "nickname": "Camavinga",
+        "lastSeasonPoints": "150",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1301": {
+        "id": "1301",
+        "positionId": "3",
+        "nickname": "Yangel Herrera",
+        "lastSeasonPoints": "68",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1302": {
+        "id": "1302",
+        "positionId": "3",
+        "nickname": "Gumbau",
+        "lastSeasonPoints": "160",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1308": {
+        "id": "1308",
+        "positionId": "3",
+        "nickname": "Pepelu",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1320": {
+        "id": "1320",
+        "positionId": "3",
+        "nickname": "Ceballos",
+        "lastSeasonPoints": "139",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1325": {
+        "id": "1325",
+        "positionId": "3",
+        "nickname": "San Emeterio",
+        "lastSeasonPoints": "92",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1332": {
+        "id": "1332",
+        "positionId": "3",
+        "nickname": "Alcaraz",
+        "lastSeasonPoints": "140",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1343": {
+        "id": "1343",
+        "positionId": "3",
+        "nickname": "Kike P\u00e9rez",
+        "lastSeasonPoints": "125",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1348": {
+        "id": "1348",
+        "positionId": "3",
+        "nickname": "Petrovic",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1349": {
+        "id": "1349",
+        "positionId": "3",
+        "nickname": "Uzuni",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1388": {
+        "id": "1388",
+        "positionId": "3",
+        "nickname": "Toni Villa",
+        "lastSeasonPoints": "87",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1414": {
+        "id": "1414",
+        "positionId": "3",
+        "nickname": "Robertone",
+        "lastSeasonPoints": "194",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1431": {
+        "id": "1431",
+        "positionId": "3",
+        "nickname": "Arnau Puigmal",
+        "lastSeasonPoints": "41",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1434": {
+        "id": "1434",
+        "positionId": "3",
+        "nickname": "Samu Costa",
+        "lastSeasonPoints": "102",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1446": {
+        "id": "1446",
+        "positionId": "3",
+        "nickname": "Ibrahima Keb\u00e9",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1452": {
+        "id": "1452",
+        "positionId": "3",
+        "nickname": "Aleix Garc\u00eda",
+        "lastSeasonPoints": "173",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1459": {
+        "id": "1459",
+        "positionId": "3",
+        "nickname": "Borja Garc\u00eda",
+        "lastSeasonPoints": "39",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1477": {
+        "id": "1477",
+        "positionId": "3",
+        "nickname": "Witsel",
+        "lastSeasonPoints": "134",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1480": {
+        "id": "1480",
+        "positionId": "3",
+        "nickname": "Tchouam\u00e9ni",
+        "lastSeasonPoints": "149",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1489": {
+        "id": "1489",
+        "positionId": "3",
+        "nickname": "Swedberg",
+        "lastSeasonPoints": "5",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1513": {
+        "id": "1513",
+        "positionId": "3",
+        "nickname": "De La Torre",
+        "lastSeasonPoints": "93",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1517": {
+        "id": "1517",
+        "positionId": "3",
+        "nickname": "Aimar Oroz",
+        "lastSeasonPoints": "131",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1520": {
+        "id": "1520",
+        "positionId": "3",
+        "nickname": "Javi Hern\u00e1ndez",
+        "lastSeasonPoints": "73",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1528": {
+        "id": "1528",
+        "positionId": "3",
+        "nickname": "Luiz Henrique",
+        "lastSeasonPoints": "128",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1529": {
+        "id": "1529",
+        "positionId": "3",
+        "nickname": "Almeida",
+        "lastSeasonPoints": "174",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1531": {
+        "id": "1531",
+        "positionId": "3",
+        "nickname": "Ander Herrera",
+        "lastSeasonPoints": "51",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1536": {
+        "id": "1536",
+        "positionId": "3",
+        "nickname": "Brian Ocampo",
+        "lastSeasonPoints": "88",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1537": {
+        "id": "1537",
+        "positionId": "3",
+        "nickname": "Oriol Romeu",
+        "lastSeasonPoints": "145",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1565": {
+        "id": "1565",
+        "positionId": "3",
+        "nickname": "Barrios",
+        "lastSeasonPoints": "45",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1575": {
+        "id": "1575",
+        "positionId": "3",
+        "nickname": "Gonzalo Villar",
+        "lastSeasonPoints": "28",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1581": {
+        "id": "1581",
+        "positionId": "3",
+        "nickname": "Escalante",
+        "lastSeasonPoints": "86",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1586": {
+        "id": "1586",
+        "positionId": "3",
+        "nickname": "Amallah",
+        "lastSeasonPoints": "28",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1595": {
+        "id": "1595",
+        "positionId": "3",
+        "nickname": "Pablo Mar\u00edn",
+        "lastSeasonPoints": "5",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1603": {
+        "id": "1603",
+        "positionId": "3",
+        "nickname": "Terrats",
+        "lastSeasonPoints": "51",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1609": {
+        "id": "1609",
+        "positionId": "3",
+        "nickname": "Guerra",
+        "lastSeasonPoints": "34",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1610": {
+        "id": "1610",
+        "positionId": "3",
+        "nickname": "Fran P\u00e9rez",
+        "lastSeasonPoints": "0",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1613": {
+        "id": "1613",
+        "positionId": "3",
+        "nickname": "Marvin",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1619": {
+        "id": "1619",
+        "positionId": "3",
+        "nickname": "Moleiro",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1620": {
+        "id": "1620",
+        "positionId": "3",
+        "nickname": "Loiodice",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1624": {
+        "id": "1624",
+        "positionId": "3",
+        "nickname": "Kirian",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1626": {
+        "id": "1626",
+        "positionId": "3",
+        "nickname": "Mfulu",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1646": {
+        "id": "1646",
+        "positionId": "3",
+        "nickname": "Sergio Ruiz",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1647": {
+        "id": "1647",
+        "positionId": "3",
+        "nickname": "Bryan",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1658": {
+        "id": "1658",
+        "positionId": "3",
+        "nickname": "Alkain",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1659": {
+        "id": "1659",
+        "positionId": "3",
+        "nickname": "A. Rebbach",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1660": {
+        "id": "1660",
+        "positionId": "3",
+        "nickname": "C. Benavidez",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1673": {
+        "id": "1673",
+        "positionId": "3",
+        "nickname": "Brahim",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1674": {
+        "id": "1674",
+        "positionId": "3",
+        "nickname": "Arda G\u00fcler",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1678": {
+        "id": "1678",
+        "positionId": "3",
+        "nickname": "Bellingham",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1682": {
+        "id": "1682",
+        "positionId": "3",
+        "nickname": "Altimira",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1683": {
+        "id": "1683",
+        "positionId": "3",
+        "nickname": "Javi Mu\u00f1oz",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1688": {
+        "id": "1688",
+        "positionId": "3",
+        "nickname": "Pablo Torre",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1689": {
+        "id": "1689",
+        "positionId": "3",
+        "nickname": "Bamba",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1691": {
+        "id": "1691",
+        "positionId": "3",
+        "nickname": "Dotor",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1694": {
+        "id": "1694",
+        "positionId": "3",
+        "nickname": "Sow",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1697": {
+        "id": "1697",
+        "positionId": "3",
+        "nickname": "Dion",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1699": {
+        "id": "1699",
+        "positionId": "3",
+        "nickname": "Arribas",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1706": {
+        "id": "1706",
+        "positionId": "3",
+        "nickname": "Olasagasti",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1708": {
+        "id": "1708",
+        "positionId": "3",
+        "nickname": "Gundogan",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1711": {
+        "id": "1711",
+        "positionId": "3",
+        "nickname": "Marc Roca",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1715": {
+        "id": "1715",
+        "positionId": "3",
+        "nickname": "Fermin",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1716": {
+        "id": "1716",
+        "positionId": "3",
+        "nickname": "Nico Paz",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1719": {
+        "id": "1719",
+        "positionId": "3",
+        "nickname": "Unai G",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1721": {
+        "id": "1721",
+        "positionId": "3",
+        "nickname": "Iba\u00f1ez",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1723": {
+        "id": "1723",
+        "positionId": "3",
+        "nickname": "Zakharyan",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1730": {
+        "id": "1730",
+        "positionId": "3",
+        "nickname": "Iker Mu\u00f1oz",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1733": {
+        "id": "1733",
+        "positionId": "3",
+        "nickname": "Ander",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1734": {
+        "id": "1734",
+        "positionId": "3",
+        "nickname": "Selu Diallo",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1738": {
+        "id": "1738",
+        "positionId": "3",
+        "nickname": "Casad\u00f3",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1740": {
+        "id": "1740",
+        "positionId": "3",
+        "nickname": "Santi",
+        "lastSeasonPoints": 0,
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1741": {
+        "id": "1741",
+        "positionId": "3",
+        "nickname": "Selvi",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1742": {
+        "id": "1742",
+        "positionId": "3",
+        "nickname": "Almena",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1745": {
+        "id": "1745",
+        "positionId": "3",
+        "nickname": "Hugo Sotelo",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1746": {
+        "id": "1746",
+        "positionId": "3",
+        "nickname": "Quintanilla",
+        "lastSeasonPoints": 0,
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1754": {
+        "id": "1754",
+        "positionId": "3",
+        "nickname": "Juanlu",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1755": {
+        "id": "1755",
+        "positionId": "3",
+        "nickname": "Manu Bueno",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1762": {
+        "id": "1762",
+        "positionId": "3",
+        "nickname": "I\u00f1aki",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1765": {
+        "id": "1765",
+        "positionId": "3",
+        "nickname": "Goz\u00e1lbez",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1766": {
+        "id": "1766",
+        "positionId": "3",
+        "nickname": "Gonz\u00e1lez",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1767": {
+        "id": "1767",
+        "positionId": "3",
+        "nickname": "Mart\u00edn Tej\u00f3n",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1773": {
+        "id": "1773",
+        "positionId": "3",
+        "nickname": "Mario",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1774": {
+        "id": "1774",
+        "positionId": "3",
+        "nickname": "Luna",
+        "lastSeasonPoints": 0,
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1785": {
+        "id": "1785",
+        "positionId": "3",
+        "nickname": "M\u00e1ximo Perrone",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1787": {
+        "id": "1787",
+        "positionId": "3",
+        "nickname": "Prados",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1789": {
+        "id": "1789",
+        "positionId": "3",
+        "nickname": "Ianis Hagi",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1790": {
+        "id": "1790",
+        "positionId": "3",
+        "nickname": "Soumar\u00e9",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1792": {
+        "id": "1792",
+        "positionId": "3",
+        "nickname": "Jhon Solis",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1795": {
+        "id": "1795",
+        "positionId": "3",
+        "nickname": "Kouame",
+        "lastSeasonPoints": 0,
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1801": {
+        "id": "1801",
+        "positionId": "3",
+        "nickname": "Benito J",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "65": {
+        "id": "65",
+        "positionId": "4",
+        "nickname": "Correa",
+        "lastSeasonPoints": "135",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "90": {
+        "id": "90",
+        "positionId": "4",
+        "nickname": "Villalibre",
+        "lastSeasonPoints": "9",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "91": {
+        "id": "91",
+        "positionId": "4",
+        "nickname": "I\u00f1aki Williams",
+        "lastSeasonPoints": "181",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "159": {
+        "id": "159",
+        "positionId": "4",
+        "nickname": "Aspas",
+        "lastSeasonPoints": "182",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "160": {
+        "id": "160",
+        "positionId": "4",
+        "nickname": "Maxi G\u00f3mez",
+        "lastSeasonPoints": "7",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "179": {
+        "id": "179",
+        "positionId": "4",
+        "nickname": "Borja Iglesias",
+        "lastSeasonPoints": "189",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "200": {
+        "id": "200",
+        "positionId": "4",
+        "nickname": "Mata",
+        "lastSeasonPoints": "42",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "217": {
+        "id": "217",
+        "positionId": "4",
+        "nickname": "Morales",
+        "lastSeasonPoints": "104",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "222": {
+        "id": "222",
+        "positionId": "4",
+        "nickname": "Roger",
+        "lastSeasonPoints": "68",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "247": {
+        "id": "247",
+        "positionId": "4",
+        "nickname": "Vin\u00edcius Jr",
+        "lastSeasonPoints": "227",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "248": {
+        "id": "248",
+        "positionId": "4",
+        "nickname": "Mariano",
+        "lastSeasonPoints": "12",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "264": {
+        "id": "264",
+        "positionId": "4",
+        "nickname": "Oyarzabal",
+        "lastSeasonPoints": "93",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "275": {
+        "id": "275",
+        "positionId": "4",
+        "nickname": "Portu",
+        "lastSeasonPoints": "92",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "294": {
+        "id": "294",
+        "positionId": "4",
+        "nickname": "Munir",
+        "lastSeasonPoints": "92",
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "334": {
+        "id": "334",
+        "positionId": "4",
+        "nickname": "Enes \u00dcnal",
+        "lastSeasonPoints": "187",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "356": {
+        "id": "356",
+        "positionId": "4",
+        "nickname": "Gerard",
+        "lastSeasonPoints": "120",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "415": {
+        "id": "415",
+        "positionId": "4",
+        "nickname": "En-Nesyri",
+        "lastSeasonPoints": "127",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "478": {
+        "id": "478",
+        "positionId": "4",
+        "nickname": "Chimy \u00c1vila",
+        "lastSeasonPoints": "135",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "541": {
+        "id": "541",
+        "positionId": "4",
+        "nickname": "Joao F\u00e9lix",
+        "lastSeasonPoints": "69",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "557": {
+        "id": "557",
+        "positionId": "4",
+        "nickname": "Rodrygo",
+        "lastSeasonPoints": "218",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "567": {
+        "id": "567",
+        "positionId": "4",
+        "nickname": "Ocampos",
+        "lastSeasonPoints": "67",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "651": {
+        "id": "651",
+        "positionId": "4",
+        "nickname": "Kike Barja",
+        "lastSeasonPoints": "114",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "666": {
+        "id": "666",
+        "positionId": "4",
+        "nickname": "Griezmann",
+        "lastSeasonPoints": "311",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "704": {
+        "id": "704",
+        "positionId": "4",
+        "nickname": "Joselu",
+        "lastSeasonPoints": "176",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "715": {
+        "id": "715",
+        "positionId": "4",
+        "nickname": "Carlos Fern\u00e1ndez",
+        "lastSeasonPoints": "59",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "786": {
+        "id": "786",
+        "positionId": "4",
+        "nickname": "Suso",
+        "lastSeasonPoints": "100",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "812": {
+        "id": "812",
+        "positionId": "4",
+        "nickname": "Alejo",
+        "lastSeasonPoints": "64",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "813": {
+        "id": "813",
+        "positionId": "4",
+        "nickname": "Lozano",
+        "lastSeasonPoints": "84",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "863": {
+        "id": "863",
+        "positionId": "4",
+        "nickname": "Negredo",
+        "lastSeasonPoints": "57",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "882": {
+        "id": "882",
+        "positionId": "4",
+        "nickname": "Ruibal",
+        "lastSeasonPoints": "91",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "924": {
+        "id": "924",
+        "positionId": "4",
+        "nickname": "Boy\u00e9",
+        "lastSeasonPoints": "147",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "927": {
+        "id": "927",
+        "positionId": "4",
+        "nickname": "Berenguer",
+        "lastSeasonPoints": "150",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "942": {
+        "id": "942",
+        "positionId": "4",
+        "nickname": "Budimir",
+        "lastSeasonPoints": "133",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "973": {
+        "id": "973",
+        "positionId": "4",
+        "nickname": "Miguel Rodr\u00edguez",
+        "lastSeasonPoints": "22",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "980": {
+        "id": "980",
+        "positionId": "4",
+        "nickname": "Camello",
+        "lastSeasonPoints": "153",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "995": {
+        "id": "995",
+        "positionId": "4",
+        "nickname": "Y\u00e9remy Pino",
+        "lastSeasonPoints": "175",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1029": {
+        "id": "1029",
+        "positionId": "4",
+        "nickname": "\u00c1lvaro Garc\u00eda",
+        "lastSeasonPoints": "181",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1032": {
+        "id": "1032",
+        "positionId": "4",
+        "nickname": "Isi",
+        "lastSeasonPoints": "223",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1042": {
+        "id": "1042",
+        "positionId": "4",
+        "nickname": "Beb\u00e9",
+        "lastSeasonPoints": "6",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1063": {
+        "id": "1063",
+        "positionId": "4",
+        "nickname": "RDT",
+        "lastSeasonPoints": "67",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1064": {
+        "id": "1064",
+        "positionId": "4",
+        "nickname": "Embarba",
+        "lastSeasonPoints": "133",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1081": {
+        "id": "1081",
+        "positionId": "4",
+        "nickname": "Abd\u00f3n",
+        "lastSeasonPoints": "50",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1093": {
+        "id": "1093",
+        "positionId": "4",
+        "nickname": "Amath",
+        "lastSeasonPoints": "75",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1131": {
+        "id": "1131",
+        "positionId": "4",
+        "nickname": "Memphis",
+        "lastSeasonPoints": "51",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1155": {
+        "id": "1155",
+        "positionId": "4",
+        "nickname": "Kike Garc\u00eda",
+        "lastSeasonPoints": "82",
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1176": {
+        "id": "1176",
+        "positionId": "4",
+        "nickname": "Sobrino",
+        "lastSeasonPoints": "136",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1177": {
+        "id": "1177",
+        "positionId": "4",
+        "nickname": "Marc",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1183": {
+        "id": "1183",
+        "positionId": "4",
+        "nickname": "Sandro",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1187": {
+        "id": "1187",
+        "positionId": "4",
+        "nickname": "Lamela",
+        "lastSeasonPoints": "118",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1191": {
+        "id": "1191",
+        "positionId": "4",
+        "nickname": "Hugo Duro",
+        "lastSeasonPoints": "72",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1193": {
+        "id": "1193",
+        "positionId": "4",
+        "nickname": "Willian Jos\u00e9",
+        "lastSeasonPoints": "63",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1260": {
+        "id": "1260",
+        "positionId": "4",
+        "nickname": "Diego L\u00f3pez",
+        "lastSeasonPoints": "49",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1275": {
+        "id": "1275",
+        "positionId": "4",
+        "nickname": "Rafa Mir",
+        "lastSeasonPoints": "90",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1289": {
+        "id": "1289",
+        "positionId": "4",
+        "nickname": "Sorloth",
+        "lastSeasonPoints": "189",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1306": {
+        "id": "1306",
+        "positionId": "4",
+        "nickname": "Sergi Guardiola",
+        "lastSeasonPoints": "97",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1312": {
+        "id": "1312",
+        "positionId": "4",
+        "nickname": "Falcao",
+        "lastSeasonPoints": "55",
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1318": {
+        "id": "1318",
+        "positionId": "4",
+        "nickname": "Nico Williams",
+        "lastSeasonPoints": "182",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1319": {
+        "id": "1319",
+        "positionId": "4",
+        "nickname": "Abde",
+        "lastSeasonPoints": "116",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1327": {
+        "id": "1327",
+        "positionId": "4",
+        "nickname": "Ferran Torres",
+        "lastSeasonPoints": "116",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1329": {
+        "id": "1329",
+        "positionId": "4",
+        "nickname": "Borja Mayoral",
+        "lastSeasonPoints": "149",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1352": {
+        "id": "1352",
+        "positionId": "4",
+        "nickname": "Muriqi",
+        "lastSeasonPoints": "196",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1379": {
+        "id": "1379",
+        "positionId": "4",
+        "nickname": "Weissman",
+        "lastSeasonPoints": "37",
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1418": {
+        "id": "1418",
+        "positionId": "4",
+        "nickname": "Sadiq",
+        "lastSeasonPoints": "31",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1436": {
+        "id": "1436",
+        "positionId": "4",
+        "nickname": "Ramazani",
+        "lastSeasonPoints": "103",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1447": {
+        "id": "1447",
+        "positionId": "4",
+        "nickname": "Stuani",
+        "lastSeasonPoints": "112",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1483": {
+        "id": "1483",
+        "positionId": "4",
+        "nickname": "Momo Cho",
+        "lastSeasonPoints": "70",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1484": {
+        "id": "1484",
+        "positionId": "4",
+        "nickname": "Guruzeta",
+        "lastSeasonPoints": "112",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1486": {
+        "id": "1486",
+        "positionId": "4",
+        "nickname": "Morata",
+        "lastSeasonPoints": "183",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1488": {
+        "id": "1488",
+        "positionId": "4",
+        "nickname": "Samuel Lino",
+        "lastSeasonPoints": "177",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1504": {
+        "id": "1504",
+        "positionId": "4",
+        "nickname": "Raphinha",
+        "lastSeasonPoints": "202",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1505": {
+        "id": "1505",
+        "positionId": "4",
+        "nickname": "Lewandowski",
+        "lastSeasonPoints": "269",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1509": {
+        "id": "1509",
+        "positionId": "4",
+        "nickname": "Carles P\u00e9rez",
+        "lastSeasonPoints": "155",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1522": {
+        "id": "1522",
+        "positionId": "4",
+        "nickname": "Leo Baptistao",
+        "lastSeasonPoints": "103",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1530": {
+        "id": "1530",
+        "positionId": "4",
+        "nickname": "Latasa",
+        "lastSeasonPoints": "39",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1541": {
+        "id": "1541",
+        "positionId": "4",
+        "nickname": "Larsen",
+        "lastSeasonPoints": "103",
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1548": {
+        "id": "1548",
+        "positionId": "4",
+        "nickname": "L\u00e1zaro",
+        "lastSeasonPoints": "75",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1560": {
+        "id": "1560",
+        "positionId": "4",
+        "nickname": "Juan Cruz",
+        "lastSeasonPoints": "1",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1568": {
+        "id": "1568",
+        "positionId": "4",
+        "nickname": "Luis Su\u00e1rez",
+        "lastSeasonPoints": "85",
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1577": {
+        "id": "1577",
+        "positionId": "4",
+        "nickname": "Tsygankov",
+        "lastSeasonPoints": "116",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1580": {
+        "id": "1580",
+        "positionId": "4",
+        "nickname": "Larin",
+        "lastSeasonPoints": "92",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1583": {
+        "id": "1583",
+        "positionId": "4",
+        "nickname": "Mach\u00eds",
+        "lastSeasonPoints": "31",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1593": {
+        "id": "1593",
+        "positionId": "4",
+        "nickname": "Ayoze P\u00e9rez",
+        "lastSeasonPoints": "103",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1597": {
+        "id": "1597",
+        "positionId": "4",
+        "nickname": "Chris Ramos",
+        "lastSeasonPoints": "47",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1625": {
+        "id": "1625",
+        "positionId": "4",
+        "nickname": "Jonathan Viera",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1628": {
+        "id": "1628",
+        "positionId": "4",
+        "nickname": "Peji\u00f1o",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1642": {
+        "id": "1642",
+        "positionId": "4",
+        "nickname": "Diedhiou",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1643": {
+        "id": "1643",
+        "positionId": "4",
+        "nickname": "Callejon",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1681": {
+        "id": "1681",
+        "positionId": "4",
+        "nickname": "S\u00e1vio",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1684": {
+        "id": "1684",
+        "positionId": "4",
+        "nickname": "Herrera",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1686": {
+        "id": "1686",
+        "positionId": "4",
+        "nickname": "Ben Brereton",
+        "lastSeasonPoints": 0,
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1687": {
+        "id": "1687",
+        "positionId": "4",
+        "nickname": "Jose Arnaiz",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1698": {
+        "id": "1698",
+        "positionId": "4",
+        "nickname": "Andr\u00e9 Silva",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1701": {
+        "id": "1701",
+        "positionId": "4",
+        "nickname": "Dovbyk",
+        "lastSeasonPoints": 0,
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1713": {
+        "id": "1713",
+        "positionId": "4",
+        "nickname": "Kone",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1714": {
+        "id": "1714",
+        "positionId": "4",
+        "nickname": "Lamine Yamal",
+        "lastSeasonPoints": 0,
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1725": {
+        "id": "1725",
+        "positionId": "4",
+        "nickname": "Adu Ares",
+        "lastSeasonPoints": 0,
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1732": {
+        "id": "1732",
+        "positionId": "4",
+        "nickname": "De La Rosa",
+        "lastSeasonPoints": 0,
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1735": {
+        "id": "1735",
+        "positionId": "4",
+        "nickname": "Gagua",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1757": {
+        "id": "1757",
+        "positionId": "4",
+        "nickname": "Marezi",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    },
+    "1769": {
+        "id": "1769",
+        "positionId": "4",
+        "nickname": "Akhomach",
+        "lastSeasonPoints": 0,
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1776": {
+        "id": "1776",
+        "positionId": "4",
+        "nickname": "Mario",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1779": {
+        "id": "1779",
+        "positionId": "4",
+        "nickname": "Can\u00f3s",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1780": {
+        "id": "1780",
+        "positionId": "4",
+        "nickname": "Sory Kaba",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1781": {
+        "id": "1781",
+        "positionId": "4",
+        "nickname": "Luk\u00e9bakio",
+        "lastSeasonPoints": 0,
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1782": {
+        "id": "1782",
+        "positionId": "4",
+        "nickname": "Samu",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1784": {
+        "id": "1784",
+        "positionId": "4",
+        "nickname": "Douvikas",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1786": {
+        "id": "1786",
+        "positionId": "4",
+        "nickname": "Roman Yaremchuk",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1788": {
+        "id": "1788",
+        "positionId": "4",
+        "nickname": "Mar\u00ed",
+        "lastSeasonPoints": 0,
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1796": {
+        "id": "1796",
+        "positionId": "4",
+        "nickname": "Karrikaburu",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1797": {
+        "id": "1797",
+        "positionId": "4",
+        "nickname": "Greenwood",
+        "lastSeasonPoints": 0,
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1798": {
+        "id": "1798",
+        "positionId": "4",
+        "nickname": "Ra\u00fal",
+        "lastSeasonPoints": 0,
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1799": {
+        "id": "1799",
+        "positionId": "4",
+        "nickname": "Javi Llabr\u00e9s",
+        "lastSeasonPoints": 0,
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1802": {
+        "id": "1802",
+        "positionId": "4",
+        "nickname": "Diao",
+        "lastSeasonPoints": 0,
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1357": {
+        "id": "1357",
+        "positionId": "5",
+        "nickname": "Simeone",
+        "lastSeasonPoints": "136",
+        "team_slug": "atletico-de-madrid",
+        "team_id": "2"
+    },
+    "1358": {
+        "id": "1358",
+        "positionId": "5",
+        "nickname": "Jagoba Arrasate",
+        "lastSeasonPoints": "92",
+        "team_slug": "c-a-osasuna",
+        "team_id": "13"
+    },
+    "1359": {
+        "id": "1359",
+        "positionId": "5",
+        "nickname": "Sergio Gonz\u00e1lez",
+        "lastSeasonPoints": "78",
+        "team_slug": "cadiz-cf",
+        "team_id": "162"
+    },
+    "1361": {
+        "id": "1361",
+        "positionId": "5",
+        "nickname": "Xavi",
+        "lastSeasonPoints": "140",
+        "team_slug": "fc-barcelona",
+        "team_id": "4"
+    },
+    "1366": {
+        "id": "1366",
+        "positionId": "5",
+        "nickname": "Javier Aguirre",
+        "lastSeasonPoints": "83",
+        "team_slug": "rcd-mallorca",
+        "team_id": "33"
+    },
+    "1367": {
+        "id": "1367",
+        "positionId": "5",
+        "nickname": "Manuel Pellegrini",
+        "lastSeasonPoints": "109",
+        "team_slug": "real-betis",
+        "team_id": "5"
+    },
+    "1368": {
+        "id": "1368",
+        "positionId": "5",
+        "nickname": "Ancelotti",
+        "lastSeasonPoints": "129",
+        "team_slug": "real-madrid",
+        "team_id": "15"
+    },
+    "1369": {
+        "id": "1369",
+        "positionId": "5",
+        "nickname": "Imanol Alguacil",
+        "lastSeasonPoints": "129",
+        "team_slug": "real-sociedad",
+        "team_id": "16"
+    },
+    "1373": {
+        "id": "1373",
+        "positionId": "5",
+        "nickname": "Pacheta",
+        "lastSeasonPoints": "51",
+        "team_slug": "villarreal-cf",
+        "team_id": "20"
+    },
+    "1442": {
+        "id": "1442",
+        "positionId": "5",
+        "nickname": "Michel",
+        "lastSeasonPoints": "90",
+        "team_slug": "girona-fc",
+        "team_id": "28"
+    },
+    "1481": {
+        "id": "1481",
+        "positionId": "5",
+        "nickname": "Ernesto Valverde",
+        "lastSeasonPoints": "91",
+        "team_slug": "athletic-club",
+        "team_id": "3"
+    },
+    "1600": {
+        "id": "1600",
+        "positionId": "5",
+        "nickname": "Rub\u00e9n Baraja",
+        "lastSeasonPoints": "40",
+        "team_slug": "valencia-cf",
+        "team_id": "18"
+    },
+    "1606": {
+        "id": "1606",
+        "positionId": "5",
+        "nickname": "Mendilibar",
+        "lastSeasonPoints": "36",
+        "team_slug": "sevilla-fc",
+        "team_id": "17"
+    },
+    "1611": {
+        "id": "1611",
+        "positionId": "5",
+        "nickname": "Jose Bordalas",
+        "lastSeasonPoints": "13",
+        "team_slug": "getafe-cf",
+        "team_id": "9"
+    },
+    "1638": {
+        "id": "1638",
+        "positionId": "5",
+        "nickname": "Garcia Pimienta",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-las-palmas",
+        "team_id": "31"
+    },
+    "1656": {
+        "id": "1656",
+        "positionId": "5",
+        "nickname": "Paco Lopez",
+        "lastSeasonPoints": 0,
+        "team_slug": "granada-cf",
+        "team_id": "10"
+    },
+    "1672": {
+        "id": "1672",
+        "positionId": "5",
+        "nickname": "Luis Garcia",
+        "lastSeasonPoints": 0,
+        "team_slug": "d-alaves",
+        "team_id": "21"
+    },
+    "1717": {
+        "id": "1717",
+        "positionId": "5",
+        "nickname": "Francisco",
+        "lastSeasonPoints": 0,
+        "team_slug": "rayo-vallecano",
+        "team_id": "14"
+    },
+    "1718": {
+        "id": "1718",
+        "positionId": "5",
+        "nickname": "Rafael Benitez Maudes",
+        "lastSeasonPoints": 0,
+        "team_slug": "rc-celta",
+        "team_id": "6"
+    },
+    "1720": {
+        "id": "1720",
+        "positionId": "5",
+        "nickname": "Vicente Moreno Peris",
+        "lastSeasonPoints": 0,
+        "team_slug": "ud-almeria",
+        "team_id": "1"
+    }
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t178/color/t178_fc-barcelona.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t178/gray/t178_fc-barcelona.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t178/white/t178_fc-barcelona.png",
+        "id": "4",
+        "name": "FC Barcelona",
+        "slug": "fc-barcelona"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t191/color/t191_valencia-cf.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t191/gray/t191_valencia-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t191/white/t191_valencia-cf.png",
+        "id": "18",
+        "name": "Valencia CF",
+        "slug": "valencia-cf"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t188/color/t188_real-sociedad.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t188/gray/t188_real-sociedad.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t188/white/t188_real-sociedad.png",
+        "id": "16",
+        "name": "Real Sociedad",
+        "slug": "real-sociedad"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t2893/color/t2893_girona-fc.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t2893/gray/t2893_girona-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t2893/white/t2893_girona-fc.png",
+        "id": "28",
+        "name": "Girona FC",
+        "slug": "girona-fc"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t177/color/t177_rcd-espanyol.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t177/gray/t177_rcd-espanyol.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t177/white/t177_rcd-espanyol.png",
+        "id": "8",
+        "name": "RCD Espanyol de Barcelona",
+        "slug": "rcd-espanyol"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t174/color/t174_athletic-club.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t174/gray/t174_athletic-club.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t174/white/t174_athletic-club.png",
+        "id": "3",
+        "name": "Athletic Club",
+        "slug": "athletic-club"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t176/color/t176_rc-celta.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t176/gray/t176_rc-celta.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t176/white/t176_rc-celta.png",
+        "id": "6",
+        "name": "RC Celta",
+        "slug": "rc-celta"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t184/color/t184_rayo-vallecano.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t184/gray/t184_rayo-vallecano.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t184/white/t184_rayo-vallecano.png",
+        "id": "14",
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t1450/color/t1450_getafe-cf.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t1450/gray/t1450_getafe-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t1450/white/t1450_getafe-cf.png",
+        "id": "9",
+        "name": "Getafe CF",
+        "slug": "getafe-cf"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t181/color/t181_rcd-mallorca.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t181/gray/t181_rcd-mallorca.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t181/white/t181_rcd-mallorca.png",
+        "id": "33",
+        "name": "RCD Mallorca",
+        "slug": "rcd-mallorca"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t192/color/t192_r-valladolid-cf.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t192/gray/t192_r-valladolid-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t192/white/t192_r-valladolid-cf.png",
+        "id": "19",
+        "name": "Real Valladolid CF",
+        "slug": "r-valladolid-cf"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t175/color/t175_atletico-de-madrid.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t175/gray/t175_atletico-de-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t175/white/t175_atletico-de-madrid.png",
+        "id": "2",
+        "name": "Atlético de Madrid",
+        "slug": "atletico-de-madrid"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t179/color/t179_sevilla-fc.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t179/gray/t179_sevilla-fc.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t179/white/t179_sevilla-fc.png",
+        "id": "17",
+        "name": "Sevilla FC",
+        "slug": "sevilla-fc"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t449/color/t449_villarreal-cf.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t449/gray/t449_villarreal-cf.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t449/white/t449_villarreal-cf.png",
+        "id": "20",
+        "name": "Villarreal CF",
+        "slug": "villarreal-cf"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t185/color/t185_real-betis.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t185/gray/t185_real-betis.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t185/white/t185_real-betis.png",
+        "id": "5",
+        "name": "Real Betis",
+        "slug": "real-betis"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t957/color/t957_cd-leganes.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t957/gray/t957_cd-leganes.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t957/white/t957_cd-leganes.png",
+        "id": "54",
+        "name": "CD Leganés",
+        "slug": "cd-leganes"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t407/color/t407_ud-las-palmas.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t407/gray/t407_ud-las-palmas.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t407/white/t407_ud-las-palmas.png",
+        "id": "31",
+        "name": "UD Las Palmas",
+        "slug": "ud-las-palmas"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t186/color/t186_real-madrid.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t186/gray/t186_real-madrid.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t186/white/t186_real-madrid.png",
+        "id": "15",
+        "name": "Real Madrid",
+        "slug": "real-madrid"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t450/color/t450_c-a-osasuna.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t450/gray/t450_c-a-osasuna.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t450/white/t450_c-a-osasuna.png",
+        "id": "13",
+        "name": "C.A. Osasuna",
+        "slug": "c-a-osasuna"
+    },
+    {
+        "badgeColor": "https://assets-fantasy.llt-services.com/teambadge/t173/color/t173_d-alaves.png",
+        "badgeGrey": "https://assets-fantasy.llt-services.com/teambadge/t173/gray/t173_d-alaves.png",
+        "badgeWhite": "https://assets-fantasy.llt-services.com/teambadge/t173/white/t173_d-alaves.png",
+        "id": "21",
+        "name": "Deportivo Alavés",
+        "slug": "d-alaves"
+    }
+]

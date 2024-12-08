@@ -1,0 +1,102 @@
+{
+    "4": {
+        "id": "4",
+        "name": "FC Barcelona",
+        "slug": "fc-barcelona"
+    },
+    "18": {
+        "id": "18",
+        "name": "Valencia CF",
+        "slug": "valencia-cf"
+    },
+    "16": {
+        "id": "16",
+        "name": "Real Sociedad",
+        "slug": "real-sociedad"
+    },
+    "28": {
+        "id": "28",
+        "name": "Girona FC",
+        "slug": "girona-fc"
+    },
+    "8": {
+        "id": "8",
+        "name": "RCD Espanyol de Barcelona",
+        "slug": "rcd-espanyol"
+    },
+    "3": {
+        "id": "3",
+        "name": "Athletic Club",
+        "slug": "athletic-club"
+    },
+    "6": {
+        "id": "6",
+        "name": "RC Celta",
+        "slug": "rc-celta"
+    },
+    "14": {
+        "id": "14",
+        "name": "Rayo Vallecano",
+        "slug": "rayo-vallecano"
+    },
+    "9": {
+        "id": "9",
+        "name": "Getafe CF",
+        "slug": "getafe-cf"
+    },
+    "33": {
+        "id": "33",
+        "name": "RCD Mallorca",
+        "slug": "rcd-mallorca"
+    },
+    "19": {
+        "id": "19",
+        "name": "Real Valladolid CF",
+        "slug": "r-valladolid-cf"
+    },
+    "2": {
+        "id": "2",
+        "name": "Atlético de Madrid",
+        "slug": "atletico-de-madrid"
+    },
+    "17": {
+        "id": "17",
+        "name": "Sevilla FC",
+        "slug": "sevilla-fc"
+    },
+    "20": {
+        "id": "20",
+        "name": "Villarreal CF",
+        "slug": "villarreal-cf"
+    },
+    "5": {
+        "id": "5",
+        "name": "Real Betis",
+        "slug": "real-betis"
+    },
+    "54": {
+        "id": "54",
+        "name": "CD Leganés",
+        "slug": "cd-leganes"
+    },
+    "31": {
+        "id": "31",
+        "name": "UD Las Palmas",
+        "slug": "ud-las-palmas"
+    },
+    "15": {
+        "id": "15",
+        "name": "Real Madrid",
+        "slug": "real-madrid"
+    },
+    "13": {
+        "id": "13",
+        "name": "C.A. Osasuna",
+        "slug": "c-a-osasuna"
+    },
+    "21": {
+        "id": "21",
+        "name": "Deportivo Alavés",
+        "slug": "d-alaves"
+    }
+}

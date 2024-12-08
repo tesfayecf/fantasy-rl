@@ -1,0 +1,122 @@
+{
+    "1": {
+        "id": "1",
+        "shortName": "ALM",
+        "slug": "ud-almeria",
+        "dspId": 56
+    },
+    "2": {
+        "id": "2",
+        "shortName": "ATM",
+        "slug": "atletico-de-madrid",
+        "dspId": 70
+    },
+    "3": {
+        "id": "3",
+        "shortName": "ATH",
+        "slug": "athletic-club",
+        "dspId": 68
+    },
+    "4": {
+        "id": "4",
+        "shortName": "BAR",
+        "slug": "fc-barcelona",
+        "dspId": 74
+    },
+    "5": {
+        "id": "5",
+        "shortName": "BET",
+        "slug": "real-betis",
+        "dspId": 81
+    },
+    "6": {
+        "id": "6",
+        "shortName": "CEL",
+        "slug": "rc-celta",
+        "dspId": 71
+    },
+    "9": {
+        "id": "9",
+        "shortName": "GET",
+        "slug": "getafe-cf",
+        "dspId": 51
+    },
+    "10": {
+        "id": "10",
+        "shortName": "GRA",
+        "slug": "granada-cf",
+        "dspId": 206
+    },
+    "13": {
+        "id": "13",
+        "shortName": "OSA",
+        "slug": "c-a-osasuna",
+        "dspId": 190
+    },
+    "14": {
+        "id": "14",
+        "shortName": "RAY",
+        "slug": "rayo-vallecano",
+        "dspId": 80
+    },
+    "15": {
+        "id": "15",
+        "shortName": "RMA",
+        "slug": "real-madrid",
+        "dspId": 82
+    },
+    "16": {
+        "id": "16",
+        "shortName": "RSO",
+        "slug": "real-sociedad",
+        "dspId": 84
+    },
+    "17": {
+        "id": "17",
+        "shortName": "SEV",
+        "slug": "sevilla-fc",
+        "dspId": 75
+    },
+    "18": {
+        "id": "18",
+        "shortName": "VAL",
+        "slug": "valencia-cf",
+        "dspId": 88
+    },
+    "20": {
+        "id": "20",
+        "shortName": "VIL",
+        "slug": "villarreal-cf",
+        "dspId": 189
+    },
+    "21": {
+        "id": "21",
+        "shortName": "ALA",
+        "slug": "d-alaves",
+        "dspId": 66
+    },
+    "28": {
+        "id": "28",
+        "shortName": "GIR",
+        "slug": "girona-fc",
+        "dspId": 151
+    },
+    "31": {
+        "id": "31",
+        "shortName": "LPA",
+        "slug": "ud-las-palmas",
+        "dspId": 181
+    },
+    "33": {
+        "id": "33",
+        "shortName": "MLL",
+        "slug": "rcd-mallorca",
+        "dspId": 77
+    },
+    "162": {
+        "id": "162",
+        "shortName": "CAD",
+        "slug": "cadiz-cf",
+        "dspId": 67
+    }
+}
