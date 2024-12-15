@@ -1,14 +1,10 @@
-import time
-import queue
 import random
 import logging
-import threading
 from enum import Enum
-from collections import deque
 from functools import lru_cache
-from typing import List, Dict, Any, Tuple, Optional
+from typing import List, Dict, Any, Tuple
 
-from api import API  # Assuming this is the existing API class
+from api import API
 
 class Position(Enum):
     """
@@ -42,39 +38,36 @@ class Pipeline:
         self.api = API()
         self.selected_players = set()
         self.selected_weeks = set()
-        self.buffer = deque(maxlen=self.buffer_size)
 
         # Pre-fetching setup
-        self.prefetch_queue = queue.Queue(maxsize=self.buffer_size)
-        self.prefetch_stop_event = threading.Event()
-        self.prefetch_thread = threading.Thread(target=self._prefetch_data, daemon=True)
+        # self.prefetch_queue = queue.Queue(maxsize=self.buffer_size)
+        # self.prefetch_stop_event = threading.Event()
+        # self.prefetch_thread = threading.Thread(target=self._prefetch_data, daemon=True)
 
     def init(self):
         try:
             self.api.init()
-            self.prefetch_thread.start()
+            # self.prefetch_thread.start()
             self.logger.info("FantasyDataPipeline initialized.")
         except Exception as e:
             self.logger.error(f"API initialization failed: {e}")
             raise
 
-    def get_player(self, position: Position = Position.NONE) -> Tuple[List[float], float]:
+    def get_player(self, position: Position = Position.NONE) -> Tuple[Dict[str, float], int]:
         """
         Get player performance data and expected next week's points.
         """
-        if not self.prefetch_queue.empty():
-            _, metrics, next_week_points = self.prefetch_queue.get()
-            return list(metrics.values()), next_week_points
-
         player_id = self._select_unique_player(position)
         week_id = self._select_unique_week()
         played = self.api.players.didPlayerPlay(player_id, week_id)
         if not played:
             return self.get_player(position)
-        metrics, next_week_points = self.get_player_data(player_id, week_id)
-        self._buffer_player_data(player_id, week_id, list(metrics.values()), next_week_points)
-        print(f"Player: {player_id}, Week: {week_id}, Metrics: {list(metrics.values())}, Next Week Points: {next_week_points} Played: {played}")
-        return list(metrics.values()), next_week_points
+        metrics, next_week_points = self._get_player_data(player_id, week_id)
+        if metrics == None or next_week_points == None:
+            return self.get_player(position)
+        # TODO: use logger
+        print(f"Player: {player_id}, Week: {week_id}, Next Week Points: {next_week_points} Played: {played}")
+        return metrics, next_week_points
 
     def get_team(self, formation: str) -> List[Dict[str, Any]]:
         """
@@ -113,7 +106,7 @@ class Pipeline:
         self.selected_weeks.add(week_id)
         return week_id
 
-    def _select_unique_player(self, position: Position = Position.NONE) -> Dict[str, Any]:
+    def _select_unique_player(self, position: Position = Position.NONE) -> int:
         """
         Select a unique player based on position.
         """
@@ -128,20 +121,20 @@ class Pipeline:
         self.selected_players.add(int(player))
         return int(player)
 
-    def get_player_data(self, player_id: int, week_id: int) -> Dict[str, Any]:
+    def _get_player_data(self, player_id: int, week_id: int) -> Tuple[Dict[str, float], int]:
         """
         Get player performance data and expected next week's points.
         """
-        metrics = self._get_player_performance_metrics(player_id, week_id)
-        week_stats = self.api.players.getStatsForWeek(player_id, week_id + 1)
-        if week_stats == None:
-            next_week_points = 0
-        else:
-            next_week_points = week_stats.get('totalPoints', 0)
-        return list(metrics.values()), next_week_points
+        metrics = self._get_player_performance_metrics(player_id, week_id - 1)
+        if metrics == None:
+            return None, None
+        next_week_stats = self.api.players.getStatsForWeek(player_id, week_id)
+        if next_week_stats == None:
+            return None, None
+        return metrics, next_week_stats.get('totalPoints', 0)
 
     @lru_cache(maxsize=1000)
-    def _get_player_performance_metrics(self, player_id: int, week_id: int) -> Dict[str, Any]:
+    def _get_player_performance_metrics(self, player_id: int, week_id: int) -> Dict[str, float]:
         """
         Get player performance metrics.
         """
@@ -162,46 +155,19 @@ class Pipeline:
                 'total_matches_played': self.api.players.getTotalGamesPlayed(player_id, week_id),
                 'penalties_won': self.api.players.getTotalPenaltiesWon(player_id, week_id),
                 'penalties_conceded': self.api.players.getTotalPenaltiesConceded(player_id, week_id),
-                'own_goals': self.api.players.getTotalOwnGoals(player_id, week_id)
+                'own_goals': self.api.players.getTotalOwnGoals(player_id, week_id),
+                'market_value': self.api.players.getMarketValue(player_id),
             }
         except Exception as e:
             self.logger.warning(f"Error retrieving metrics for player {player_id}, week {week_id}: {e}")
-            return {}
-
-    def _prefetch_data(self):
-        """
-        Background thread to pre-fetch and cache data.
-        """
-        while not self.prefetch_stop_event.is_set():
-            try:
-                player_id = self._select_unique_player()
-                week_id = self._select_unique_week()
-                played = self.api.players.didPlayerPlay(player_id, week_id)
-                if not played:
-                    return 
-                metrics, next_week_points = self.get_player_data(player_id, week_id)
-                self.prefetch_queue.put((f"{player_id}_{week_id}", metrics, next_week_points))
-                time.sleep(0.5)
-            except Exception as e:
-                self.logger.warning(f"Error during prefetch: {e}")
-
-    def _buffer_player_data(self, player_id: int, week_id: int, metrics: List[float], next_week_points: float):
-        """
-        Cache player data in the buffer.
-        """
-        self.buffer.append({
-            'player_id': player_id,
-            'week_id': week_id,
-            'metrics': metrics,
-            'next_week_points': next_week_points
-        })
+            return None
 
     def close(self):
         """
         Stop pre-fetching and release resources.
         """
-        self.prefetch_stop_event.set()
-        self.prefetch_thread.join()
+        # self.prefetch_stop_event.set()
+        # self.prefetch_thread.join()
         self.logger.info("FantasyDataPipeline resources closed.")
 
     def __enter__(self):
