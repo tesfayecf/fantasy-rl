@@ -1,6 +1,5 @@
 import random
 
-from environment.player import Player
 from environment.factory import create_player
 
 class Market:
@@ -12,55 +11,53 @@ class Market:
         """
         self.market_size = market_size
         self.pipeline = pipeline
-        self.players = self._initialize_market()
+        self.players = []
+        
+        self.initialize()
 
-    def _initialize_market(self):
+    def initialize(self):
         """
         Generate the initial list of players in the market.
-        :return: List of Player objects.
         """
-        return [create_player("market", self.pipeline) for _ in range(self.market_size)]
+        self.players = [create_player("market", self.pipeline) for _ in range(self.market_size)]
 
-    def get_player(self, player_id):
+    def reset(self):
+        """
+        Reset the market to its initial state.
+        """
+        self.initialize()
+
+    def get_player(self, player_index: int):
         """
         Retrieve a player from the market by ID.
-        :param player_id: The ID of the player to retrieve.
+        :param player_index: Index of the player to retrieve.
         :return: Player instance or None if not found.
         """
-        for player in self.players:
-            if player.player_id == player_id:
-                return player
-        return None
+        return self.players[player_index]
 
-    def add_player(self, player: Player):
-        """
-        Add a player to the market.
-        :param player: The Player instance to add.
-        """
-        if len(self.players) < self.market_size:
-            self.players.append(player)
-
-    def remove_player(self, player: Player):
+    def remove_player(self, player_index: int):
         """
         Remove a player from the market.
         :param player: The Player instance to remove.
         """
-        self.players = [p for p in self.players if p.player_id != player.player_id]
+        self.players[player_index] = create_player("empty", self.pipeline)
 
-    def refresh_market(self):
+    def get_players(self, return_none=False):
+        """
+        Get all players currently in the market.
+        :return: List of Player objects.
+        """
+        if return_none:
+            return [player if player.player_type != "empty" else None for player in self.players]
+        else:
+            return self.players
+    
+    def refresh(self):
         """
         Refresh the market by replacing some players with new ones.
         Useful for simulating new players entering the market every week.
         """
         num_to_replace = random.randint(1, len(self.players) // 3)  # Replace ~1/3 of the market
         for _ in range(num_to_replace):
-            player_to_remove = random.choice(self.players)
-            self.remove_player(player_to_remove)
-            self.add_player(self._create_player())
-
-    def get_all_players(self):
-        """
-        Get all players currently in the market.
-        :return: List of Player objects.
-        """
-        return self.players
+            player_to_remove = random.randint(0, len(self.players) - 1)
+            self.players[player_to_remove] = create_player("market", self.pipeline)

@@ -48,7 +48,7 @@ class Pipeline:
         try:
             self.api.init()
             # self.prefetch_thread.start()
-            self.logger.info("FantasyDataPipeline initialized.")
+            self.logger.info("Pipeline initialized.")
         except Exception as e:
             self.logger.error(f"API initialization failed: {e}")
             raise
@@ -65,8 +65,7 @@ class Pipeline:
         metrics, next_week_points = self._get_player_data(player_id, week_id)
         if metrics == None or next_week_points == None:
             return self.get_player(position)
-        # TODO: use logger
-        print(f"Player: {player_id}, Week: {week_id}, Next Week Points: {next_week_points} Played: {played}")
+        self.logger.debug(f"Player: {player_id}, Week: {week_id}, Next Week Points: {next_week_points}")
         return metrics, next_week_points
 
     def get_team(self, formation: str) -> List[Dict[str, Any]]:
@@ -168,7 +167,7 @@ class Pipeline:
         """
         # self.prefetch_stop_event.set()
         # self.prefetch_thread.join()
-        self.logger.info("FantasyDataPipeline resources closed.")
+        self.logger.info("Pipeline resources closed.")
 
     def __enter__(self):
         return self
