@@ -10,7 +10,7 @@ from environment.market import Market
 METRICS_SIZE = 17
 TEAM_SIZE = 11
 MIN_TEAM_SIZE = 8
-MARKET_SIZE = 15
+MARKET_SIZE = 25
 INITIAL_BUDGET = 100000.0
 MAX_ACTIONS_PER_WEEK = 10
 
@@ -77,67 +77,58 @@ class Environment(gym.Env):
 
         # Execute action
         if action['type'] == "sell":  # Sell
-            # Check team has enough players
             if self.team.get_players(return_none=True).count(None) >= TEAM_SIZE - MIN_TEAM_SIZE:
-                # Penalize no players in team
-                action['reward'] -= 1
+                # Penalize if selling reduces team below the minimum size
+                action['reward'] -= 2
                 action['valid'] = False
-                action['message'] = "Not enough players in team"
+                action['message'] = "Cannot sell, team size would drop below the minimum"
             else:
-                # Add player value to budget
+                action['reward'] += 0
                 self.budget += action['player'].release_clause
-                # Remove player from team
                 self.team.remove_player(action['player_index'])
-                # Small reward for doing valid action
-                action['reward'] += 0.1
                 action['message'] = f"Sold {action['player'].player_id} for ${action['player'].release_clause:,.2f}"
-        
+
         elif action['type'] == "buy":  # Buy
-            # Check team has space
             if None not in self.team.get_players(return_none=True):
-                # Penalize no space in team
+                # Penalize if no space in the team
                 action['reward'] -= 1
                 action['valid'] = False
-                action['message'] = "No space in team"
+                action['message'] = "No space in the team"
+            elif self.budget < action['player'].release_clause:
+                # Penalize if insufficient budget
+                action['reward'] -= 1
+                action['valid'] = False
+                action['message'] = "Insufficient budget"
+            elif action['player'].player_type == 'empty':
+                # Penalize buying an empty slot
+                action['reward'] -= 1
+                action['valid'] = False
+                action['message'] = "Cannot buy an empty player"
             else:
-                # Check budget is enough
-                if self.budget < action['player'].release_clause:
-                    # Penalize insufficient budget
-                    action['reward'] -= 1
-                    action['valid'] = False
-                    action['message'] = "Insufficient budget"
-                if action['player'].player_type == 'empty':
-                    # Penalize buying empty player
-                    action['reward'] -= 1
-                    action['valid'] = False
-                    action['message'] = "Cannot buy empty player"
-                else:
-                    # Subtract player budget from budget
-                    self.budget -= action['player'].release_clause
-                    # Add player to team
-                    self.team.add_player(action['player'])
-                    # Remove player from market
-                    self.market.remove_player(action['player_index'])
-                    # Small reward for buying a player
-                    action['reward'] += 0.1
-                    action['message'] = f"Bought {action['player'].player_id} for ${action['player'].release_clause:,.2f}"
+                # Reward based on player performance metrics
+                action['reward'] += action['player'].points
+                self.budget -= action['player'].release_clause
+                self.team.add_player(action['player'])
+                self.market.remove_player(action['player_index'])
+                action['message'] = f"Bought {action['player'].player_id} for ${action['player'].release_clause:,.2f}"
 
         elif action['type'] == "finish":  # Finish week
-            # Check if valid finish
-            if None in self.team.get_players(return_none=True):
-                # Penalize invalid finish
-                action['reward'] -= 1
+            if self.team.get_players(return_none=True).count(None) > 0:
+                # Penalize for incomplete team
+                action['reward'] -= -1
                 action['week_done'] = True
-                action['message'] = "Not enough players in team"
-            if self.budget < 0:
-                # Penalize invalid finish
+                action['message'] = f"Week ended with missing players"
+            elif self.budget < 0:
+                # Penalize for negative budget
                 action['reward'] -= 1
                 action['week_done'] = True
                 action['message'] = "Insufficient budget"
             else:
-                action['reward'] += self.team.get_points()
+                # Reward based on team performance
+                performance_points = self.team.get_points()
+                action['reward'] += performance_points
                 action['week_done'] = True
-                action['message'] = f"Finished week with {self.team.get_points()} points"
+                action['message'] = f"Finish week"
 
         # Add action to history
         self.actions.append(action)
@@ -148,14 +139,12 @@ class Environment(gym.Env):
     def render(self, mode='human'):
         os.system('clear' if os.name == 'posix' else 'cls')  # Clear the terminal
         print(f"Budget: ${self.budget:,.2f}")
-        print("\nYour Team:")
+        print("\nTeam:")
         self._render_team()
         print("\nMarket:")
         self._render_market()
         print("\nActions:")
         self._render_actions()
-
-        time.sleep(0.5)  # Pause for animation effect
 
     def _get_state(self):
         return {

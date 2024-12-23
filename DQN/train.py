@@ -1,15 +1,23 @@
+import os
+import torch
 import numpy as np
+from datetime import datetime
+import matplotlib.pyplot as plt
 
 from environment import Environment
 from DQN.agent import Agent
 
 def train(env: Environment, n_episodes=1000, batch_size=64, target_update=10):
+    # Create folder for logs
+    folder_name = datetime.now().strftime("%Y%m%d%H%M%S")
+    os.makedirs(f"logs/{folder_name}", exist_ok=True)
+
+    # Initialize agent
     agent = Agent(env)
     epsilon_start = 1.0
     epsilon_end = 0.01
     epsilon_decay = 0.995
     epsilon = epsilon_start
-    
     episode_rewards = []
     
     for episode in range(n_episodes):
@@ -44,5 +52,15 @@ def train(env: Environment, n_episodes=1000, batch_size=64, target_update=10):
         if (episode + 1) % 10 == 0:
             avg_reward = np.mean(episode_rewards[-10:])
             print(f"Episode {episode + 1}/{n_episodes} - Avg Reward: {avg_reward:.2f} - Epsilon: {epsilon:.3f}")
+
+        # Every 500 episodes, save the model and rewards plot
+        if (episode + 1) % 10 == 0:
+            # torch.save(agent.policy_net.state_dict(), f"logs/{folder_name}/model_{episode + 1}.pth")
+            plt.plot(episode_rewards)
+            plt.title('Training Progress')
+            plt.xlabel('Episode')
+            plt.ylabel('Total Reward')
+            plt.savefig(f"logs/{folder_name}/rewards.png")
+            
     
     return agent, episode_rewards

@@ -13,7 +13,7 @@ if __name__ == "__main__":
     env = Environment(pipeline)
     
     # Train the agent
-    agent, rewards = train(env, n_episodes=100)
+    agent, rewards = train(env, n_episodes=5000)
     
     # Save the trained model
     torch.save(agent.policy_net.state_dict(), "trained_model.pth")
