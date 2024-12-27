@@ -1,5 +1,4 @@
 import os
-import torch
 import numpy as np
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -10,7 +9,7 @@ from DQN.agent import Agent
 def train(env: Environment, n_episodes=1000, batch_size=64, target_update=10):
     # Create folder for logs
     folder_name = datetime.now().strftime("%Y%m%d%H%M%S")
-    os.makedirs(f"logs/{folder_name}", exist_ok=True)
+    os.makedirs(f"logs/DQN/{folder_name}", exist_ok=True)
 
     # Initialize agent
     agent = Agent(env)
@@ -29,7 +28,7 @@ def train(env: Environment, n_episodes=1000, batch_size=64, target_update=10):
             # Select and perform action
             action = agent.select_action(state, epsilon)
             next_state, reward, done, _ = env.step(action)
-            env.render()
+            # env.render()
             
             # Store transition and train
             agent.store_transition(state, action, reward, next_state, done)
@@ -55,12 +54,10 @@ def train(env: Environment, n_episodes=1000, batch_size=64, target_update=10):
 
         # Every 500 episodes, save the model and rewards plot
         if (episode + 1) % 10 == 0:
-            # torch.save(agent.policy_net.state_dict(), f"logs/{folder_name}/model_{episode + 1}.pth")
             plt.plot(episode_rewards)
             plt.title('Training Progress')
             plt.xlabel('Episode')
             plt.ylabel('Total Reward')
-            plt.savefig(f"logs/{folder_name}/rewards.png")
-            
+            plt.savefig(f"logs/DQN/{folder_name}/rewards.png")
     
     return agent, episode_rewards

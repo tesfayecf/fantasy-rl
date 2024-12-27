@@ -1,6 +1,7 @@
 import torch
 import random
 import torch.nn as nn
+import torch.cuda
 import numpy as np
 import torch.optim as optim
 from collections import deque
@@ -41,17 +42,17 @@ class Agent:
             return self.env.action_space.sample()
         
         with torch.no_grad():
-            state_tensor = torch.FloatTensor(self.flatten_state(state)).unsqueeze(0).to(self.device)
+            state_tensor = torch.FloatTensor(state).unsqueeze(0).to(self.device)
             q_values = self.policy_net(state_tensor)
             return q_values.max(1)[1].item()
 
     def store_transition(self, state, action, reward, next_state, done):
         """Store transition in replay memory."""
         self.memory.append((
-            self.flatten_state(state),
+            state,
             action,
             reward,
-            self.flatten_state(next_state),
+            next_state,
             done
         ))
 

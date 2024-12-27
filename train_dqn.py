@@ -10,17 +10,9 @@ if __name__ == "__main__":
      # Initialize your pipeline
     pipeline = Pipeline() 
     pipeline.init()
+    # Initialize your environment
     env = Environment(pipeline)
-    
     # Train the agent
     agent, rewards = train(env, n_episodes=5000)
-    
     # Save the trained model
-    torch.save(agent.policy_net.state_dict(), "trained_model.pth")
-    
-    # Plot training progress
-    plt.plot(rewards)
-    plt.title('Training Progress')
-    plt.xlabel('Episode')
-    plt.ylabel('Total Reward')
-    plt.show()
+#     torch.save(agent.policy_net.state_dict(), "trained_model.pth")
