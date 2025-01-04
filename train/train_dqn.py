@@ -1,7 +1,7 @@
 import torch
 import matplotlib.pyplot as plt
 
-from DQN.train import train
+from algorithms.DQN.train import train
 from pipeline import Pipeline
 from environment import Environment
 

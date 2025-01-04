@@ -1,4 +1,4 @@
-from REINFORCE.train import train
+from algorithms.SARSA.train import train
 from pipeline import Pipeline
 from environment import Environment
 
