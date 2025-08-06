@@ -1,0 +1,17 @@
+[project]
+name = "FantasyRL"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "tqdm==4.67.1",
+    "pandas==2.2.2",
+    "numpy==1.26.0",
+    "scipy==1.11.3",
+    "requests==2.32.3",
+    "tqd    m==4.67.1",
+    "matplotlib==3.9.4",
+    "altair==5.5.0",
+    "mlflow==2.19.0"
+]

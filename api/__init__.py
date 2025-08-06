@@ -1,1 +1,1 @@
-from api.main import API
+from main import API

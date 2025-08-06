@@ -1,4 +1,3 @@
-https://chatgpt.com/c/c5fcab78-0b5d-4d10-a4ce-758114f1f940
 
 Fantasy is a mobile game where you have to creat a team of football players. Each player gets a score after each match. You compete against other managers in a closed league. The one who makes more points wins. You can buy players form a public market that updates every day and from other managers based on mutual agreement or buying the release clause. Each managers has money to buy players and can increase the release clause of its players and sell players to other managers of the league with a discount. I want to create a reinforcement learning model to automate the managment of the league. How would you approch this problem. Give me multiple extensive solutions of what could i do and how. First i want to set the theory about the strategy and the implement it with code. I want to find a way to get the best players to make the most points. 
 

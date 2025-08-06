@@ -8,7 +8,7 @@
             "name": "Update data 🔃",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/update.py",
+            "program": "${workspaceFolder}/actions/update.py",
             "console": "integratedTerminal",
         },
         {
